@@ -1,0 +1,3311 @@
+City	County	Latitude	Longitude
+Abbot	Pope	373326N	0884156W
+Abingdon	Knox	404816N	0902406W
+Adair	Mcdonough	402508N	0902948W
+Adams	Adams	395155N	0911153W
+Adams Corner	Wabash	383047N	0874431W
+Addatorata Village	Cook	420854N	0875625W
+Addieville	Washington	382329N	0892924W
+Addison	Du Page	415554N	0875920W
+Adeline	Ogle	420836N	0892925W
+Aden	Hamilton	381430N	0882730W
+Adrian	Hancock	403115N	0911001W
+Advance	Jasper	390924N	0880144W
+Afolkey	Stephenson	422557N	0893428W
+Agnew	Whiteside	414712N	0894800W
+Ahern	Kankakee	410915N	0873617W
+Aiken	Jo Daviess	422109N	0902455W
+Akin	Franklin	375916N	0884508W
+Akin Junction	Franklin	380036N	0884541W
+Akron	Peoria	405414N	0893914W
+Aladdin	Pike	394259N	0911923W
+Albany	Whiteside	414722N	0901309W
+Albers	Clinton	383236N	0893644W
+Albion	Edwards	382239N	0880322W
+Alda	Washington	382746N	0891412W
+Alden	McHenry	422732N	0883104W
+Aldridge	Union	373330N	0892812W
+Aledo	Mercer	411159N	0904457W
+Alexander	Morgan	394328N	0900217W
+Alexis	Warren	410348N	0903321W
+Alexis Junction	Mercer	410402N	0903818W
+Algonquin	McHenry	420956N	0881739W
+Alhambra	Madison	385318N	0894353W
+Aliceville	Henry	413308N	0895246W
+Allen	Mason	401818N	0893858W
+Allendale	Wabash	383136N	0874235W
+Allens Corners	Kane	420558N	0882853W
+Allens Spring	Pope	372208N	0883925W
+Allentown	Tazewell	403321N	0892348W
+Allenville	Moultrie	393320N	0883147W
+Allerton	Champaign	395442N	0875611W
+Allright	Clark	391750N	0874456W
+Alma	Marion	384318N	0885433W
+Almora	Kane	420339N	0882010W
+Alonzo	Iroquois	403400N	0874352W
+Alorton	St Clair	383523N	0900712W
+Alpha	Henry	411130N	0902248W
+Alpine	Cook	413511N	0875253W
+Alsey	Scott	393338N	0902602W
+Alsip	Cook	414008N	0874419W
+Alta	Peoria	404839N	0893803W
+Altamont	Effingham	390343N	0884453W
+Altgeld Gardens	Cook	413916N	0873607W
+Altmar	La Salle	410831N	0885333W
+Alto Pass	Union	373413N	0891903W
+Alton	Madison	385326N	0901103W
+Altona	Knox	410653N	0900952W
+Altorf	Kankakee	411125N	0875744W
+Alvin	Vermilion	401830N	0873630W
+Alworth	Winnebago	421437N	0891444W
+Amboy	Lee	414251N	0891943W
+Amenia	Piatt	400119N	0883959W
+America	Pulaski	370818N	0890725W
+Ames	Monroe	380848N	0900316W
+Amity	Richland	384635N	0875527W
+Anchor	Mclean	403405N	0883208W
+Ancona	Livingston	410226N	0885221W
+Andalusia	Rock Island	412621N	0904303W
+Anderson	Cass	395856N	0900932W
+Andover	Henry	411738N	0901731W
+Andres	Will	412218N	0875257W
+Andrew	Sangamon	395344N	0893824W
+Anna	Union	372737N	0891449W
+Annapolis	Crawford	390840N	0874900W
+Annawan	Henry	412350N	0895416W
+Antioch	Lake	422838N	0880544W
+Apple River	Jo Daviess	423018N	0900555W
+Applegate	Lawrence	384734N	0874748W
+Appleton	Knox	405609N	0900939W
+Aptakisic	Lake	421057N	0875650W
+Arbury Hills	Will	413208N	0875051W
+Arcadia	Morgan	395021N	0901441W
+Archer	Sangamon	394653N	0894409W
+Archie	Vermilion	395339N	0874942W
+Arcola	Douglas	394105N	0881823W
+Ardenmoor	Clark	392157N	0874748W
+Arenzville	Cass	395237N	0902224W
+Argenta	Macon	395855N	0884922W
+Argyle	Boone	422136N	0885624W
+Arlington	Bureau	412825N	0891457W
+Arlington Heights	Sangamon	394911N	0893605W
+Armington	Tazewell	402020N	0891841W
+Armstrong	Vermilion	401823N	0875240W
+Arnold	Carroll	421012N	0901335W
+Aroma Park	Kankakee	410447N	0874841W
+Arpee	Mercer	411059N	0905649W
+Arrowsmith	Mclean	402658N	0883754W
+Arthur	Douglas	394253N	0882820W
+Ashdale Junction	Carroll	420506N	0895528W
+Ashkum	Iroquois	405249N	0875718W
+Ashland	Cass	395316N	0900028W
+Ashley	Washington	381946N	0891127W
+Ashmore	Coles	393159N	0880120W
+Ashton	Lee	415158N	0891316W
+Assumption	Christian	393113N	0890256W
+Astoria	Fulton	401339N	0902134W
+Athens	Menard	395739N	0894326W
+Athensville	Greene	392720N	0901121W
+Atkinson	Henry	412515N	0900054W
+Atlanta	Logan	401534N	0891400W
+Atlas	Pike	393050N	0905810W
+Atterberry	Menard	400339N	0895525W
+Attila	Williamson	374611N	0884616W
+Atwater	Macoupin	391958N	0894330W
+Atwood	Douglas	394758N	0882744W
+Auburn	Sangamon	393530N	0894447W
+Auer Landing	Calhoun	385405N	0903122W
+Augerville	Champaign	400823N	0881018W
+Augsburg	Fayette	385200N	0890048W
+Augusta	Hancock	401348N	0905700W
+Aurora	Kane	414538N	0881912W
+Aux Sable	Grundy	412341N	0881943W
+Ava	Jackson	375318N	0892941W
+Avena	Fayette	390027N	0885540W
+Avery Hill	St Clair	383311N	0900137W
+Aviston	Clinton	383624N	0893627W
+Avon	Fulton	403951N	0902605W
+Ayers	Bond	385749N	0892707W
+Babylon	Fulton	403527N	0902057W
+Bader	Schuyler	401023N	0902207W
+Baileyville	Ogle	421150N	0893536W
+Baker	La Salle	413320N	0884840W
+Bakerville	Jefferson	381530N	0885351W
+Balcom	Union	372447N	0891222W
+Bald Bluff	Henderson	410107N	0905113W
+Bald Mound	Kane	415046N	0882423W
+Baldwin	Randolph	381059N	0895033W
+Baldwin Beach	Mason	402045N	0900155W
+Baldwin Heights	Jefferson	382659N	0890841W
+Ballou	Will	411639N	0880607W
+Banklick	Williamson	374938N	0884208W
+Banner	Fulton	403101N	0895430W
+Bannockburn	Lake	421136N	0875159W
+Barbers Corners	Will	414239N	0880406W
+Barclay	Sangamon	395229N	0893104W
+Bardolph	Mcdonough	402942N	0903352W
+Barlow Park	Vermilion	401834N	0873723W
+Barnes	Mclean	403010N	0885406W
+Barnett	Madison	385116N	0895304W
+Barney Ford	Coles	393307N	0880607W
+Barnhill	Wayne	381704N	0882151W
+Barr	Macoupin	392417N	0900615W
+Barreville	McHenry	421632N	0881545W
+Barrington	Lake	420914N	0880810W
+Barrington Center	Kane	420638N	0881139W
+Barrington Hills	Kane	420841N	0880920W
+Barrington Woods	Cook	420908N	0880321W
+Barrow	Greene	393022N	0902405W
+Barry	Pike	394139N	0910220W
+Barstow	Rock Island	413106N	0902125W
+Bartelso	Clinton	383211N	0892759W
+Bartlett	Cook	415942N	0881108W
+Bartonville	Peoria	403901N	0893907W
+Basco	Hancock	401940N	0911200W
+Batavia	Kane	415100N	0881845W
+Batchtown	Calhoun	390159N	0903927W
+Bates	Sangamon	394327N	0895058W
+Batestown	Vermilion	400712N	0874147W
+Bath	Mason	401136N	0900827W
+Baum	Greene	391939N	0901856W
+Bay City	Pope	371456N	0882948W
+Bay View Garden	Woodford	404832N	0893114W
+Bayle City	Fayette	390650N	0890958W
+Baylestown	Macoupin	390529N	0895246W
+Baylis	Pike	394342N	0905429W
+Beach Station	Lake	422516N	0875057W
+Beamington	Sangamon	394015N	0893530W
+Beardstown	Cass	400103N	0902527W
+Bearsdale	Macon	395349N	0890040W
+Beason	Logan	400837N	0891136W
+Beaty	Fulton	401630N	0901445W
+Beaucoup	Washington	382059N	0891731W
+Beaver Creek (Wisetown)	Bond	384603N	0892337W
+Beaverton Crossroads	Boone	422428N	0884918W
+Beaverville	Iroquois	405716N	0873916W
+Beckemeyer	Clinton	383620N	0892609W
+Bedford	Pike	393145N	0903503W
+Bedford Park	Cook	414546N	0874800W
+Bee Creek	Pike	392401N	0903809W
+Beech Landing	Calhoun	385825N	0904021W
+Beecher	Will	412026N	0873717W
+Beecher City	Effingham	391117N	0884712W
+Beechville	Calhoun	385817N	0903851W
+Belden	McHenry	422827N	0882050W
+Belgium	Vermilion	400341N	0873817W
+Belgium Row	Vermilion	400759N	0874513W
+Belknap	Johnson	371930N	0885620W
+Bell	Logan	401131N	0892315W
+Bellair	Crawford	390831N	0875643W
+Belle Prairie City	Hamilton	381321N	0883319W
+Belle Rive	Jefferson	381358N	0884426W
+Belleview	Calhoun	392103N	0904652W
+Belleville	St Clair	383112N	0895902W
+Bellevue	Peoria	404104N	0894048W
+Bellflower	Mclean	402024N	0883137W
+Bellmont	Wabash	382304N	0875441W
+Bells Landing	Fulton	403016N	0895307W
+Belltown	Greene	392257N	0902428W
+Bellwood	Cook	415253N	0875259W
+Belmont	Du Page	414734N	0880216W
+Beltrees	Jersey	385734N	0901932W
+Belvidere	Boone	421550N	0885039W
+Bement	Piatt	395519N	0883419W
+Benld	Macoupin	390534N	0894814W
+Bennett	Vermilion	400351N	0874822W
+Bennett Landing	Union	373202N	0892954W
+Bennington	Edwards	383127N	0880753W
+Bensenville	Du Page	415718N	0875624W
+Benson	Woodford	405102N	0890720W
+Bentley	Hancock	402040N	0910642W
+Benton	Franklin	375948N	0885512W
+Benton Park	Franklin	380335N	0885453W
+Bentown	Mclean	402819N	0884823W
+Benville	Brown	395151N	0905153W
+Berdan	Greene	392154N	0902343W
+Berkeley	Du Page	415320N	0875412W
+Berlin	Sangamon	394532N	0895411W
+Bernice	Cook	413445N	0873253W
+Berryville	Richland	383558N	0875543W
+Berwick	Warren	404757N	0903218W
+Berwyn	Cook	415102N	0874737W
+Bessie	Franklin	375950N	0884845W
+Bethalto	Madison	385433N	0900226W
+Bethany	Moultrie	393844N	0884417W
+Bethel	Morgan	394635N	0902529W
+Beverly	Adams	394736N	0905927W
+Beverly Manor	Tazewell	404142N	0892803W
+Bible Grove	Clay	385219N	0882646W
+Biddleborn	Washington	381752N	0894105W
+Big Bay	Massac	371900N	0884318W
+Big Foot Prairie	McHenry	422942N	0883556W
+Big Rock	Kane	414550N	0883249W
+Biggs	Mason	401429N	0895415W
+Biggsville	Henderson	405113N	0905153W
+Billett	Lawrence	383952N	0873908W
+Bingham	Fayette	390651N	0891248W
+Binghampton	Lee	414300N	0891814W
+Bingman Station	White	380459N	0881441W
+Binney	Madison	385924N	0894338W
+Birch Island	Calhoun	390753N	0904052W
+Birds	Lawrence	385013N	0874004W
+Birkbeck	De Witt	401037N	0885206W
+Birkner	St Clair	383344N	0900145W
+Birmingham	Schuyler	401551N	0904915W
+Bishop	Mason	402045N	0895229W
+Bishop Hill	Henry	411206N	0900708W
+Bismarck	Vermilion	401550N	0873629W
+Bissell	Sangamon	395046N	0893454W
+Bixby	St Clair	382935N	0901325W
+Black	Edwards	382804N	0880610W
+Blackhawk	Carroll	421115N	0901326W
+Blackland	Macon	394541N	0890614W
+Blackstone	Livingston	410504N	0884127W
+Blaine	Boone	422649N	0884811W
+Blair	Livingston	410612N	0881831W
+Blairsville	Hamilton	381006N	0882751W
+Blakes	La Salle	412731N	0884510W
+Blanding	Jo Daviess	421629N	0902309W
+Blandinsville	Mcdonough	403322N	0905157W
+Block	Champaign	395806N	0880508W
+Blodgett	Will	412239N	0881124W
+Bloomfield	Adams	400115N	0911825W
+Bloomingdale	Du Page	415727N	0880451W
+Bloomington	Mclean	402903N	0885937W
+Bloomington Heights	Mclean	402850N	0890201W
+Blue Island	Cook	413926N	0874048W
+Blue Mound	Macon	394204N	0890723W
+Blue Ridge	Piatt	401604N	0882917W
+Bluff City	Fayette	385750N	0890247W
+Bluff Junction	Madison	384906N	0895857W
+Bluff Springs	Cass	395916N	0902045W
+Bluffs	Scott	394507N	0903206W
+Bluffside	St Clair	382902N	0900917W
+Bluford	Jefferson	381951N	0884333W
+Blyton	Fulton	403351N	0901635W
+Boaz	Massac	371730N	0885359W
+Bobtown	Menard	400434N	0895917W
+Boden	Mercer	411530N	0903513W
+Bodmann	Piatt	395258N	0883445W
+Bogota	Jasper	385506N	0881424W
+Bohleysville	St Clair	382455N	0900707W
+Bolingbrook	Will	414155N	0880406W
+Bolivia	Christian	394432N	0892049W
+Bolton	Stephenson	421431N	0894331W
+Bondville	Champaign	400648N	0882210W
+Bone Gap	Edwards	382651N	0875945W
+Bonfield	Kankakee	410848N	0880328W
+Bongard	Champaign	395527N	0880725W
+Bonnie	Jefferson	381210N	0885412W
+Boody	Macon	394559N	0890257W
+Boos	Jasper	385548N	0880639W
+Boothby	Franklin	380008N	0884643W
+Borton	Edgar	393921N	0875602W
+Boskydell	Jackson	374016N	0891249W
+Boulder	Clinton	384148N	0891332W
+Bourbon	Douglas	394444N	0882244W
+Bourbonnais	Kankakee	410830N	0875230W
+Bowen	Hancock	401400N	0910345W
+Bowes	Kane	420029N	0882327W
+Bowman	Jersey	390815N	0901440W
+Bowman Ford	Cumberland	391558N	0880938W
+Boyd	Jefferson	382449N	0890048W
+Boyd Ford	Coles	393638N	0880415W
+Boyle	Greene	391700N	0903438W
+Boyleston	Wayne	382141N	0882633W
+Boynton	Tazewell	402108N	0892607W
+Braceville	Grundy	411337N	0881553W
+Bradbury	Cumberland	391927N	0881434W
+Braden	Hamilton	375947N	0883658W
+Bradford	Stark	411038N	0893927W
+Bradfordton	Sangamon	394924N	0894422W
+Bradley	Kankakee	410831N	0875140W
+Braeside	Lake	420909N	0874620W
+Braidwood	Will	411554N	0881244W
+Breckenridge	Hancock	401437N	0911711W
+Breeds	Fulton	403319N	0895513W
+Breese	Clinton	383638N	0893137W
+Bremen	Jo Daviess	422402N	0902449W
+Brereton	Fulton	403639N	0900133W
+Briar Bluff	Henry	412735N	0902148W
+Bridgeport	Lawrence	384221N	0874536W
+Bridgeview	Cook	414500N	0874815W
+Bridgeway Addition	Rock Island	412824N	0903015W
+Briergate	Lake	421034N	0874853W
+Brighton	Macoupin	390223N	0900826W
+Brimfield	Peoria	405020N	0895311W
+Brisbane	Will	412933N	0875728W
+Bristol	Kendall	414108N	0882541W
+Broadlands	Champaign	395431N	0875939W
+Broadmoor	Stark	410844N	0893743W
+Broadview	Cook	415150N	0875112W
+Broadwell	Logan	400405N	0892635W
+Brock Landing	Calhoun	385324N	0903151W
+Brocton	Edgar	394256N	0875557W
+Brokaw	Mclean	402704N	0885409W
+Bronson	Vermilion	400654N	0874819W
+Brookfield	Cook	414926N	0875106W
+Brooklyn	St Clair	383931N	0900957W
+Brookport	Massac	370725N	0883749W
+Brooks	Madison	384627N	0900524W
+Brookville	Ogle	420255N	0894102W
+Brothers	Vermilion	400840N	0874831W
+Broughton	Hamilton	375605N	0882743W
+Brownfield	Pope	372044N	0883625W
+Browning	Schuyler	400744N	0902219W
+Browns	Edwards	382237N	0875859W
+Browns Crossing	Morgan	394326N	0895902W
+Browns Mill	Stephenson	421656N	0893115W
+Brownstown	Fayette	385945N	0885710W
+Brownsville	White	380229N	0881441W
+Brownton	Morgan	394549N	0901128W
+Brownwood	Tazewell	402346N	0892829W
+Brubaker	Marion	384135N	0885235W
+Bruce	Moultrie	393108N	0883540W
+Brunkhorst Landing	Jackson	374154N	0893105W
+Brussels	Calhoun	385658N	0903519W
+Bryant	Fulton	402758N	0900530W
+Bryce	Iroquois	403804N	0874524W
+Buckhart	Sangamon	394459N	0892641W
+Buckhorn	Brown	395612N	0905009W
+Buckhorn Corners	Stephenson	422529N	0893818W
+Buckingham	Kankakee	410249N	0881031W
+Buckley	Iroquois	403549N	0880217W
+Buckner	Franklin	375859N	0890058W
+Bucks	De Witt	401554N	0885812W
+Bucktown	Vermilion	400648N	0874441W
+Buda	Bureau	411934N	0894044W
+Budd	Livingston	410556N	0883723W
+Buena Vista	Saline	374418N	0883434W
+Buffalo	Sangamon	395109N	0892431W
+Buffalo Grove	Cook	420905N	0875735W
+Buffalo Hart	Sangamon	395450N	0892651W
+Buffalo Prairie	Rock Island	412018N	0905117W
+Bulldog Crossing	Macon	394744N	0890045W
+Bulpitt	Christian	393530N	0892526W
+Buncombe	Johnson	372817N	0885837W
+Bungay	Hamilton	381045N	0882431W
+Bunje	Bond	385933N	0893528W
+Bunker Hill	Macoupin	390234N	0895706W
+Bunkum	St Clair	383715N	0900241W
+Bureau	Bureau	411721N	0892159W
+Burgess	Mercer	410738N	0903829W
+Burke	Carroll	420304N	0900212W
+Burksville	Monroe	381602N	0900909W
+Burlingame	Cass	395525N	0900948W
+Burlington	Kane	420310N	0883253W
+Burnett	Bureau	411638N	0893949W
+Burnham	Cook	413820N	0873324W
+Burns	Mclean	402401N	0885842W
+Burnside	Hancock	403014N	0910600W
+Burnt Prairie	White	381506N	0881541W
+Burr Ridge	Du Page	414456N	0875506W
+Burrowsville	Macon	394758N	0883759W
+Burt	Tazewell	402017N	0892206W
+Burton	Adams	395417N	0911456W
+Burton View	Logan	401015N	0892905W
+Burtons Bridge	McHenry	421647N	0881344W
+Busenville	Vermilion	395914N	0874032W
+Bush	Williamson	375036N	0890752W
+Bushnell	Mcdonough	403310N	0903022W
+Bushton	Coles	393532N	0880819W
+Butler	Montgomery	391158N	0893202W
+Bybee	Fulton	403552N	0901105W
+Byron	Ogle	420737N	0891520W
+Caber	Ford	405945N	0881219W
+Cable	Mercer	411702N	0903026W
+Cache	Alexander	370600N	0891541W
+Cadiz	Hardin	373445N	0881335W
+Cadwell	Moultrie	394052N	0883118W
+Cahokia	St Clair	383415N	0901124W
+Cairo	Alexander	370019N	0891035W
+Cairo Junction	Alexander	370227N	0891130W
+Caldwell	Tazewell	403832N	0893056W
+Caledonia	Boone	422210N	0885333W
+Caledonia Landing	Pulaski	371045N	0890419W
+Calhoun	Richland	383901N	0880237W
+Calloway	Christian	393344N	0892119W
+Calumet City	Cook	413656N	0873146W
+Calumet Park	Cook	413946N	0873938W
+Calvin	White	381229N	0880107W
+Camargo	Douglas	394801N	0880950W
+Cambon	Franklin	375358N	0885953W
+Cambria	Williamson	374653N	0890709W
+Cambridge	Henry	411813N	0901134W
+Camden	Schuyler	400913N	0904614W
+Cameron	Warren	405320N	0903102W
+Camp Algonquin	McHenry	421059N	0881604W
+Camp Ground	Jefferson	382020N	0885006W
+Camp Grove	Marshall	410444N	0893759W
+Camp Point	Adams	400221N	0910409W
+Camp Travis	Clay	383936N	0881953W
+Campbell	Vermilion	401128N	0873446W
+Campbell Hill	Jackson	375548N	0893256W
+Campus	Livingston	410124N	0881822W
+Canton	Fulton	403329N	0900206W
+Cantrall	Sangamon	395616N	0894033W
+Capron	Boone	422359N	0884425W
+Carbon	St Clair	383538N	0895621W
+Carbon Cliff	Rock Island	412941N	0902326W
+Carbon Hill	Grundy	411749N	0881800W
+Carbondale	Jackson	374338N	0891300W
+Cardiff	Livingston	410306N	0881714W
+Carle Springs	De Witt	401513N	0885801W
+Carlinville	Macoupin	391647N	0895254W
+Carlock	Mclean	403456N	0890755W
+Carlsburg	Macoupin	390500N	0894320W
+Carlyle	Clinton	383637N	0892221W
+Carman	Henderson	404426N	0910334W
+Carmi	White	380527N	0880931W
+Carol Stream	Du Page	415445N	0880805W
+Carpenter	Madison	385331N	0895339W
+Carpentersville	Kane	420716N	0881528W
+Carrier Mills	Saline	374103N	0883758W
+Carrollton	Greene	391808N	0902425W
+Carterville	Williamson	374536N	0890438W
+Carthage	Hancock	402459N	0910810W
+Carthage Lake	Henderson	404726N	0910431W
+Cartter	Marion	383228N	0885444W
+Cary	McHenry	421243N	0881417W
+Cascade	Sangamon	394013N	0892931W
+Casey	Clark	391757N	0875933W
+Caseyville	St Clair	383812N	0900132W
+Casner	Macon	394801N	0884728W
+Cass	Cass	395805N	0901609W
+Castle Fin	Clark	392812N	0874400W
+Castle Junction	Rock Island	412333N	0903440W
+Castleton	Stark	410704N	0894222W
+Catharine	La Salle	413123N	0884309W
+Catlin	Vermilion	400354N	0874207W
+Caton Farm	Will	413355N	0881421W
+Cave in Rock	Hardin	372809N	0880959W
+Cayuga	Livingston	405628N	0883501W
+Cazenovia	Woodford	405101N	0891955W
+Cedar Park	Madison	384520N	0900614W
+Cedar Point	La Salle	411547N	0890732W
+Cedarville	Stephenson	422233N	0893759W
+Center Hill	Carroll	420451N	0900246W
+Centerville	Calhoun	385549N	0903418W
+Central	Kendall	412826N	0882602W
+Central City	Grundy	411416N	0881654W
+Centralia	Marion	383130N	0890800W
+Centreville	St Clair	383500N	0900730W
+Cereal	Livingston	404230N	0882104W
+Cerro Gordo	Piatt	395326N	0884341W
+Chadwick	Carroll	420048N	0895326W
+Chalfin Bridge	Monroe	381243N	0901607W
+Challacombe	Macoupin	391306N	0900716W
+Chambersburg	Pike	394902N	0903926W
+Champaign	Champaign	400659N	0881436W
+Champlin	Livingston	404659N	0883245W
+Chana	Ogle	415850N	0891311W
+Chandlerville	Cass	400253N	0900918W
+Channahon	Will	412546N	0881343W
+Chapin	Morgan	394557N	0902356W
+Chapman	Montgomery	390620N	0891901W
+Charleston	Coles	392946N	0881034W
+Charlotte	Livingston	404911N	0881720W
+Charter Grove	De Kalb	420359N	0883753W
+Chatham	Sangamon	394034N	0894216W
+Chatsworth	Livingston	404513N	0881731W
+Chatton	Adams	400903N	0910158W
+Chauncey	Lawrence	385007N	0875215W
+Chautauqua	Jersey	385752N	0902308W
+Chautauqua Park	Mason	401922N	0900307W
+Chebanse	Iroquois	410011N	0875429W
+Checkrow	Fulton	403315N	0902241W
+Chemung	McHenry	422455N	0884000W
+Cheneyville	Vermilion	402809N	0873505W
+Chenoa	Mclean	404430N	0884311W
+Cherry	Bureau	412537N	0891248W
+Cherry Hill	Will	413124N	0880052W
+Cherry Point	Edgar	394757N	0874316W
+Cherry Valley	Winnebago	421405N	0885656W
+Cherwood Ford	Cumberland	391207N	0881248W
+Chester	Randolph	375449N	0894919W
+Chesterfield	Macoupin	391518N	0900347W
+Chestervale	Logan	400532N	0891918W
+Chesterville	Douglas	394212N	0882328W
+Chestline	Adams	395041N	0905735W
+Chestnut	Logan	400313N	0891107W
+Chicago	Cook	415100N	0873900W
+Chicago Heights	Cook	413022N	0873808W
+Chicago Ridge	Cook	414205N	0874645W
+Chili	Hancock	401304N	0910829W
+Chillicothe	Peoria	405520N	0892910W
+Chinatown	Madison	384337N	0895649W
+Chipps	Moultrie	393759N	0883452W
+Chittyville	Williamson	374946N	0890140W
+Choat	Massac	371248N	0884755W
+Choctaw	Clark	391656N	0874317W
+Chrisman	Edgar	394813N	0874025W
+Christopher	Franklin	375821N	0890312W
+Churchill	Bureau	412315N	0891020W
+Churchville	Du Page	415606N	0875714W
+Cicero	Cook	415044N	0874514W
+Cimic	Sangamon	393524N	0893921W
+Cincinnati Landing	Pike	393554N	0911029W
+Cisco	Piatt	400041N	0884334W
+Cisne	Wayne	383057N	0882615W
+Cissna Park	Iroquois	403353N	0875335W
+Clank	Alexander	371118N	0891930W
+Clare	De Kalb	420058N	0884945W
+Claremont	Richland	384310N	0875817W
+Clarence	Ford	402750N	0875815W
+Clarendon Hills	Du Page	414751N	0875717W
+Clarion	Bureau	413018N	0891131W
+Clark	Greene	391535N	0903440W
+Clark Center	Clark	392145N	0874655W
+Clarke City	Grundy	410929N	0881434W
+Clarksburg	Shelby	391948N	0884430W
+Clarksdale	Christian	392923N	0892204W
+Clarksville	Clark	392706N	0874752W
+Clarmin	Washington	381316N	0894158W
+Claus	Will	412211N	0873636W
+Clay City	Clay	384119N	0882115W
+Clays Prairie	Edgar	394113N	0873348W
+Claysville	Sangamon	395202N	0895401W
+Clayton	Adams	400153N	0905738W
+Claytonville	Iroquois	403401N	0874923W
+Clear Lake	Cass	400302N	0901832W
+Clearing	Cook	414641N	0874542W
+Cleburne	Franklin	375609N	0890313W
+Clements	Morgan	393708N	0900903W
+Cleone	Clark	392523N	0875427W
+Cleveland	Henry	413022N	0901853W
+Cliffdale	Calhoun	392138N	0903735W
+Clifford	Williamson	374925N	0890438W
+Clifton	Iroquois	405607N	0875604W
+Clifton Terrace	Madison	385546N	0901520W
+Clinton	De Witt	400913N	0885752W
+Cloverdale	Du Page	415622N	0880713W
+Coal City	Grundy	411716N	0881708W
+Coal Hollow	Bureau	412156N	0892148W
+Coal Valley	Rock Island	412543N	0902739W
+Coaler	Iroquois	404450N	0874359W
+Coalton	Montgomery	391658N	0891804W
+Coatsburg	Adams	400158N	0910927W
+Cobden	Union	373153N	0891512W
+Coello (North City)	Franklin	375939N	0890402W
+Coffeen	Montgomery	390521N	0892326W
+Colby Point	McHenry	421747N	0881424W
+Colchester	Mcdonough	402535N	0904733W
+Coldbrook	Warren	405651N	0903102W
+Coleman	Kane	415843N	0881750W
+Coles	Coles	393113N	0882816W
+Coleta	Whiteside	415408N	0894808W
+Colfax	Mclean	403401N	0883659W
+Collins	Randolph	380115N	0895652W
+Collinsville	Madison	384013N	0895904W
+Collison	Vermilion	401330N	0874814W
+Colmar	Mcdonough	402043N	0905328W
+Colona	Henry	412902N	0902111W
+Colp	Williamson	374819N	0890448W
+Columbia	Monroe	382637N	0901204W
+Columbus	Adams	395917N	0910848W
+Colusa	Hancock	403415N	0911004W
+Colvin Park	De Kalb	420817N	0884700W
+Combs	Piatt	400710N	0883637W
+Comer	Macoupin	391735N	0895814W
+Como	Whiteside	414559N	0894601W
+Compro	Sangamon	393523N	0894657W
+Compton	Lee	414140N	0890452W
+Conant	Perry	380321N	0892856W
+Concord	Morgan	394900N	0902222W
+Confidence	Fayette	385522N	0885535W
+Congerville	Woodford	403701N	0891215W
+Conlogue	Effingham	393524N	0874725W
+Connelly Ford	Clark	391509N	0875530W
+Conover	Mason	401038N	0900126W
+Conrad	Calhoun	385531N	0903701W
+Cooks Mills	Coles	393457N	0882422W
+Cooksville	Mclean	403235N	0884259W
+Cooper	Tazewell	403937N	0892415W
+Cooperstown	Brown	395750N	0903623W
+Cora	Jackson	374926N	0894013W
+Coral	McHenry	421302N	0883352W
+Cordes	Washington	381746N	0892726W
+Cordova	Rock Island	414049N	0901908W
+Corinth	Perry	374908N	0884635W
+Cornell	Livingston	405924N	0884345W
+Cornerville	Hamilton	375425N	0883724W
+Cornland	Logan	395614N	0892408W
+Cortland	De Kalb	415512N	0884119W
+Cottage Grove	Saline	374453N	0882438W
+Cottage Hills	Madison	385411N	0900412W
+Cottonwood	Gallatin	375321N	0881247W
+Coughlin	Peoria	405345N	0892947W
+Coulterville	Randolph	381111N	0893620W
+Council Hill	Jo Daviess	422919N	0902113W
+Country Club Hills	Cook	413405N	0874313W
+Countryside	Cook	414658N	0875241W
+Covell	Mclean	402634N	0890630W
+Covington	Washington	382717N	0892609W
+Cowden	Shelby	391454N	0885144W
+Cowling	Wabash	381841N	0875621W
+Coyne	McHenry	421101N	0882707W
+Coyne Center	Rock Island	412417N	0903333W
+Coynes	Will	413432N	0880834W
+Crab Orchard	Williamson	374345N	0884815W
+Crab Orchard Estates	Williamson	374458N	0890851W
+Crain	Jackson	374648N	0893028W
+Crainville	Williamson	374507N	0890404W
+Cramer	Peoria	404128N	0895649W
+Crandall	Tazewell	403758N	0892555W
+Cravat	Jefferson	382525N	0890535W
+Crawford Countryside	Cook	413115N	0874248W
+Creal Springs	Williamson	373710N	0885012W
+Crenshaw Crossing	Williamson	374626N	0885846W
+Crescent	Tazewell	403250N	0893956W
+Cresent	Iroquois	404612N	0875132W
+Crest Hill	Will	413317N	0880555W
+Creston	Ogle	415551N	0885752W
+Crestwood	Cook	413940N	0874509W
+Crete	Lake	412640N	0873753W
+Creve Coeur	Tazewell	403850N	0893528W
+Crisp	Wayne	382622N	0883544W
+Croft	Logan	400253N	0893518W
+Cropsey	Mclean	403633N	0882843W
+Crossroads	Johnson	372056N	0884903W
+Crossville	White	380942N	0880355W
+Cruger	Woodford	404319N	0891836W
+Cruse	Clay	384918N	0884040W
+Crystal Gardens	McHenry	421401N	0882248W
+Crystal Lake	McHenry	421428N	0881858W
+Crystal Manor	McHenry	421323N	0881730W
+Crystal Vista	McHenry	421419N	0882216W
+Cuba	Fulton	402934N	0901126W
+Cullom	Livingston	405240N	0881609W
+Culver	Menard	400024N	0894114W
+Curran	Sangamon	394432N	0894619W
+Curtis	Menard	400344N	0894725W
+Cushman	Moultrie	393936N	0883727W
+Custer	Marshall	410214N	0890913W
+Cutler	Perry	380156N	0893356W
+Cutmer	Iroquois	403901N	0873600W
+Cypress	Johnson	372154N	0890105W
+Daggett	Carroll	420157N	0895825W
+Dahinda	Knox	405529N	0900632W
+Dahlgren	Hamilton	381153N	0884104W
+Dailey	Champaign	401420N	0875651W
+Dakota	Stephenson	422319N	0893134W
+Dale	Hamilton	375942N	0882930W
+Dallas City	Hancock	403810N	0911002W
+Dalton City	Moultrie	394243N	0884816W
+Dalzell	Bureau	412128N	0891034W
+Damascus	Stephenson	422220N	0894222W
+Damiansville	Clinton	383036N	0893710W
+Damon	Brown	400459N	0904948W
+Dana	La Salle	405728N	0885700W
+Danforth	Iroquois	404913N	0875840W
+Danley	Randolph	380544N	0900656W
+Danvers	Mclean	403146N	0891038W
+Danville	Vermilion	400728N	0873748W
+Danway	La Salle	412557N	0884130W
+Dareville	Jefferson	381154N	0885835W
+Darmstadt	St Clair	381915N	0894354W
+Darrow	Iroquois	404308N	0873611W
+Darwin	Clark	391700N	0873643W
+Davis	Morgan	394046N	0901306W
+Davis Junction	Ogle	420606N	0890535W
+Dawleys	Alexander	371245N	0891746W
+Dawson	Sangamon	395110N	0892748W
+Daysville	Ogle	415904N	0891906W
+Dayton	Henry	412921N	0901917W
+DeKalb	De Kalb	415546N	0884501W
+De Land	Piatt	400720N	0883843W
+De Long	Vermilion	400647N	0875407W
+De Soto	Jackson	374903N	0891340W
+Decatur	Macon	395025N	0885717W
+Decorra	Henderson	404340N	0905812W
+Deer Creek	Tazewell	403748N	0891957W
+Deer Grove	Whiteside	413628N	0894122W
+Deer Park	Lake	420939N	0880453W
+Deer Plain	Calhoun	385554N	0903159W
+Deerfield	Lake	421016N	0875040W
+Deering City	Franklin	375459N	0885331W
+Deerpath	Lake	421453N	0875134W
+Deers	Champaign	400318N	0880721W
+Dees	Cumberland	391323N	0880933W
+Degognia	Jackson	375140N	0893749W
+Delafield	Hamilton	380852N	0883610W
+Delavan	Tazewell	402221N	0893250W
+Delhi	Jersey	390243N	0901521W
+Delmar	Kankakee	411039N	0873618W
+DeLong	Knox	404900N	0901816W
+Delrey	Iroquois	404022N	0880102W
+Delta	Saline	374103N	0884210W
+Delwood	Pope	373447N	0883417W
+Democrat Spring	Jersey	390502N	0902901W
+Denmark	Perry	375951N	0892950W
+Dennison	Clark	392739N	0873552W
+Denny	Perry	380251N	0891937W
+Denrock	Whiteside	414159N	0895832W
+Denver	Hancock	401726N	0910625W
+Depler Springs	Fulton	402559N	0901104W
+Depue	Bureau	411927N	0891824W
+Derby	Ford	402630N	0882633W
+Des Plaines	Cook	420200N	0875300W
+Deselm	Kankakee	411458N	0875828W
+Detroit	Pike	393714N	0904036W
+Devereux Heights	Sangamon	395059N	0893643W
+Dewey	Champaign	401908N	0881655W
+DeWitt	De Witt	401052N	0884710W
+Dewmaine	Williamson	374650N	0890437W
+Dexter	Effingham	390451N	0884100W
+Diamond	Grundy	411719N	0881506W
+Diamond City	Hamilton	380521N	0883309W
+Diamond Lake	Lake	421440N	0880036W
+Diana	Franklin	380559N	0884505W
+Dickerson	Champaign	401906N	0882520W
+Dickeys	Kankakee	410303N	0880214W
+Dieterich	Effingham	390343N	0882247W
+Dillon	Tazewell	402836N	0893217W
+Dillsburg	Mclean	401859N	0880446W
+Dimmick	La Salle	412625N	0890659W
+Diona	Coles	392236N	0880821W
+Disco	Hancock	403713N	0910116W
+Diswood	Alexander	371353N	0891922W
+Divernon	Sangamon	393356N	0893926W
+Divide	Jefferson	382649N	0884947W
+Divine	Grundy	412309N	0881743W
+Dix	Jefferson	382630N	0885615W
+Dixmoor	Cook	413754N	0873939W
+Dixon	Lee	415020N	0892846W
+Dixon Springs	Pope	372304N	0884007W
+Doddsville	Mcdonough	401642N	0903906W
+Dog Walk	Williamson	374533N	0885558W
+Dogtown Landing	Calhoun	385859N	0904016W
+Dogwood	Crawford	390350N	0875327W
+Dollville	Shelby	392613N	0885930W
+Dolton	Cook	413820N	0873626W
+Doney	Kankakee	410400N	0873730W
+Dongola	Union	372140N	0890957W
+Donnellson	Montgomery	390140N	0892824W
+Donovan	Iroquois	405300N	0873658W
+Dorans	Coles	393304N	0882040W
+Dorchester	Macoupin	390508N	0895315W
+Dorris Heights	Saline	374458N	0883311W
+Dorsey	Madison	385825N	0900005W
+Douglas	St Clair	382528N	0895857W
+Douglass	Knox	404710N	0900503W
+Dover	Bureau	412612N	0892336W
+Dow	Jersey	390048N	0902029W
+Dowell	Jackson	375623N	0891416W
+Downers Grove	Du Page	414832N	0880040W
+Downs	Mclean	402349N	0885214W
+Dozaville	Randolph	375425N	0895723W
+Drake	Greene	392732N	0902814W
+Dressor	Fayette	391023N	0890304W
+Drivers	Jefferson	381950N	0885935W
+Druce Lake	Lake	422218N	0880009W
+Drummond	Will	412421N	0881036W
+Dry Hill	Jackson	374902N	0893312W
+Du Bois	Washington	381326N	0891244W
+Du Quoin	Perry	380041N	0891410W
+DuBois Center	Washington	381506N	0891241W
+Dudley	Effingham	393436N	0875100W
+Dudleyville	Bond	384926N	0892505W
+Duncan	Stark	405901N	0894721W
+Duncan Mills	Fulton	402024N	0901127W
+Duncanville	Crawford	385717N	0874144W
+Dundas	Richland	385006N	0880506W
+Dunes Park	Lake	422515N	0874932W
+Dunfermline	Fulton	402928N	0900154W
+Dunham Castle	Kane	415708N	0881617W
+Dunkle	Christian	392805N	0890346W
+Dunlap	Peoria	405142N	0894043W
+Dunn	Moultrie	393734N	0884130W
+Dunning	Cook	415710N	0874747W
+Dupo	St Clair	383058N	0901237W
+Durand	Winnebago	422611N	0891955W
+Durham	Hancock	403548N	0910522W
+Durley	Bond	385604N	0892205W
+Dutch Hollow	St Clair	383403N	0900151W
+Dutch Mills	Union	372455N	0891622W
+Dutton	Pike	394028N	0904759W
+Duvall	Shelby	392845N	0884725W
+Dwight	Livingston	410540N	0882530W
+Dykersburg	Williamson	374132N	0884423W
+Eagerville	Macoupin	390642N	0894702W
+Eagle	Saline	373904N	0882334W
+Eagle Point	Ogle	415937N	0894105W
+Earlville	La Salle	413522N	0885519W
+East Alton	Madison	385249N	0900640W
+East Brooklyn	Grundy	411024N	0881550W
+East Carondelet	St Clair	383231N	0901358W
+East Chicago Heights	Cook	413023N	0873530W
+East Clinton	Whiteside	415013N	0900954W
+East Dubuque	Jo Daviess	422932N	0903834W
+East Dundee	Kane	420556N	0881617W
+East Galesburg	Knox	405652N	0901836W
+East Gillespie	Macoupin	390827N	0894844W
+East Hannibal	Pike	394347N	0912103W
+East Hardin	Greene	390936N	0903632W
+East Hazel Crest	Cook	413425N	0873847W
+East Joliet	Will	413206N	0880306W
+East Lynn	Vermilion	402759N	0874800W
+East Moline	Rock Island	413003N	0902639W
+East Newbern	Jersey	390052N	0901848W
+East Peoria	Tazewell	403958N	0893448W
+East Saint Louis	St Clair	383728N	0900903W
+East Side	Cook	414244N	0873155W
+Eastburn	Iroquois	404623N	0873808W
+Easton	Mason	401357N	0895033W
+Eastwood Manor	McHenry	422044N	0881428W
+Eberle	Effingham	385633N	0882725W
+Ebner	Carroll	415555N	0900627W
+Eckard	Mason	401911N	0895920W
+Eddy	Lake	422741N	0875354W
+Eddyville	Pope	372956N	0883516W
+Edelstein	Peoria	405627N	0893745W
+Eden	Peoria	404120N	0894958W
+Eden Park	Williamson	374518N	0890126W
+Edgar	Edgar	394520N	0874204W
+Edgemont	St Clair	383537N	0900349W
+Edgetown	Kankakee	411046N	0873432W
+Edgewood	Effingham	385514N	0883941W
+Edginton	Rock Island	412313N	0904549W
+Edinburg	Christian	393926N	0892322W
+Edwards	Peoria	404445N	0894439W
+Edwardsville	Madison	384841N	0895711W
+Effingham	Effingham	390712N	0883236W
+Effner	Iroquois	404614N	0873134W
+Egan	Ogle	421118N	0892421W
+Eichorn	Hardin	372928N	0882419W
+Eileen	Grundy	411739N	0881616W
+El Dara	Pike	393721N	0905930W
+El Paso	Woodford	404421N	0890059W
+El Vista	Peoria	404344N	0893745W
+Elba	Gallatin	374935N	0881935W
+Elba Center	Knox	405039N	0900235W
+Elbow	Richland	383832N	0880718W
+Elbridge	Edgar	393045N	0873458W
+Elburn	Kane	415332N	0882820W
+Elco	Alexander	371802N	0891557W
+Eldena	Lee	414616N	0892436W
+Elderville	Hancock	401949N	0911740W
+Eldorado	Saline	374849N	0882617W
+Eldred	Greene	391715N	0903308W
+Eldridge	Kankakee	410934N	0874312W
+Eleanor	Warren	405858N	0904142W
+Eleroy	Stephenson	421957N	0894538W
+Elgin	Kane	420214N	0881652W
+Eliza	Mercer	411745N	0905803W
+Elizabeth	Jo Daviess	421904N	0901317W
+Elizabethtown	Hardin	372645N	0881818W
+Elk Grove	Cook	415954N	0880013W
+Elk Grove Village	Cook	420014N	0875813W
+Elkhart	Logan	400114N	0892858W
+Elkhorn Grove	Carroll	420029N	0894404W
+Elkton	Washington	381730N	0893324W
+Elkville	Jackson	375436N	0891409W
+Ellery	Edwards	382117N	0880855W
+Elliott	Ford	402753N	0881620W
+Elliottstown	Effingham	390004N	0882710W
+Ellis	Christian	393524N	0893144W
+Ellis Grove	Randolph	380032N	0895421W
+Ellisville	Fulton	403736N	0901818W
+Ellsworth	Mclean	402701N	0884300W
+Elmhurst	Du Page	415358N	0875625W
+Elmira	Stark	411047N	0894954W
+Elmore	Stark	405724N	0895837W
+Elmoville	Jo Daviess	421556N	0900249W
+Elmwood	Peoria	404640N	0895759W
+Elmwood Park	Cook	415516N	0874833W
+Elsah	Jersey	385722N	0902135W
+Elsdon	Cook	414737N	0874318W
+Elva	De Kalb	415151N	0884634W
+Elvaston	Hancock	402342N	0911458W
+Elvira	Johnson	372936N	0890146W
+Elwin	Macon	394644N	0885848W
+Elwood	Will	412414N	0880642W
+Embarrass	Coles	393102N	0880528W
+Emden	Logan	401755N	0892906W
+Emerald Park	McHenry	421908N	0881501W
+Emerson	Whiteside	414822N	0894553W
+Emerson City	Jefferson	380822N	0890243W
+Emery	Macon	395845N	0885704W
+Emington	Livingston	405811N	0882129W
+Emma	White	375829N	0880713W
+Empire	Mclean	401820N	0884227W
+Energy	Williamson	374626N	0890135W
+Enfield	White	380558N	0882015W
+Englewood	Cook	414647N	0873845W
+Enion	Fulton	401630N	0901038W
+Enos	Macoupin	391804N	0900027W
+Enright	Mclean	404423N	0885801W
+Enterprise	Wayne	383120N	0882127W
+Eola	Du Page	414639N	0881434W
+Epplyanna	Stephenson	422530N	0892639W
+Epworth	White	380414N	0880622W
+Equality	Gallatin	374402N	0882036W
+Erie	Whiteside	413923N	0900445W
+Ernst	Clark	391858N	0874023W
+Erwin	Schuyler	400755N	0904232W
+Esmond	De Kalb	420201N	0885608W
+Essex	Kankakee	411038N	0881108W
+Etherton	Jackson	374107N	0891916W
+Etna	Coles	392322N	0882511W
+Eureka	Woodford	404317N	0891622W
+Evans	Logan	401318N	0892150W
+Evanston	Cook	420228N	0874124W
+Evansville	Randolph	380525N	0895618W
+Evarts	Stephenson	421511N	0892828W
+Evergreen Park	Cook	414314N	0874206W
+Evers	Effingham	390553N	0882712W
+Ewbanks	Adams	395843N	0911910W
+Ewing	Franklin	380519N	0885108W
+Exermont	St Clair	383852N	0900247W
+Exeter	Scott	394315N	0902947W
+Exline	Kankakee	410900N	0874606W
+Exposition View	Kane	414733N	0882037W
+Eylar	Livingston	405444N	0882710W
+Fairbanks	Moultrie	394302N	0883148W
+Fairbury	Livingston	404450N	0883053W
+Fairdale	De Kalb	420600N	0885558W
+Fairfield	Lake	421309N	0880341W
+Fairgrange	Coles	393443N	0881018W
+Fairhaven	Carroll	415644N	0895545W
+Fairland	Champaign	395235N	0880606W
+Fairman	Marion	384040N	0890617W
+Fairmont	Madison	385432N	0901251W
+Fairmont City	St Clair	383859N	0900535W
+Fairmount	Vermilion	400244N	0874950W
+Fairview	Fulton	403800N	0900949W
+Faithorn	Will	412541N	0873629W
+Fall Creek	Adams	394644N	0911808W
+Falling Spring	St Clair	383157N	0901112W
+Falmouth	Jasper	390317N	0880844W
+Fancher	Shelby	391603N	0884623W
+Fancy Prairie	Menard	395951N	0893558W
+Fandon	Mcdonough	402206N	0904541W
+Fargo	Brown	395825N	0905117W
+Farina	Fayette	385003N	0884620W
+Farmdale	Tazewell	403957N	0893040W
+Farmer City	De Witt	401436N	0883833W
+Farmersville	Montgomery	392636N	0893906W
+Farmingdale	Sangamon	394922N	0894822W
+Farmington	Coles	392345N	0881240W
+Farrington	Clark	392812N	0873246W
+Fay	Carroll	420012N	0900058W
+Fayette	Greene	391912N	0900913W
+Fayetteville	St Clair	382239N	0894743W
+Fayville	Alexander	370953N	0892536W
+Fenton	Whiteside	414350N	0900148W
+Ferber	Franklin	375425N	0884432W
+Fergestown	Williamson	374733N	0885753W
+Ferguson Ford	Brown	395140N	0905412W
+Ferndale	McHenry	421807N	0881429W
+Fernway Park	Cook	413513N	0874948W
+Ferrel	Edgar	392946N	0873506W
+Ferrin	Clinton	383634N	0891400W
+Ferris	Hancock	402808N	0911013W
+Fiatt	Fulton	403337N	0901047W
+Ficklin	Douglas	394755N	0882119W
+Fidelity	Jersey	390910N	0900952W
+Fieldon	Jersey	390631N	0902954W
+Fillmore	Montgomery	390655N	0891644W
+Filson	Douglas	394122N	0881355W
+Findlay	Shelby	393121N	0884513W
+Finneyville	Hardin	373240N	0880619W
+Fisher	Champaign	401853N	0882100W
+Fishhook	Pike	394820N	0905307W
+Fitchmoor	La Salle	412743N	0890954W
+Fithian	Vermilion	400650N	0875223W
+Five Islands Park	Kane	415818N	0881835W
+Five Point	Menard	395921N	0895259W
+Five Points	De Kalb	420009N	0884425W
+Flag Center	Ogle	415626N	0890720W
+Flagg	Ogle	415345N	0890827W
+Flanagan	Livingston	405241N	0885140W
+Flat Rock	Crawford	385406N	0874018W
+Flatville	Champaign	401422N	0880333W
+Flatwoods	Johnson	372525N	0884327W
+Fletchers	Mclean	403137N	0884701W
+Flickerville	Kankakee	411312N	0875722W
+Flint	Hamilton	380348N	0883738W
+Flora	Clay	384008N	0882908W
+Floraville	St Clair	382235N	0900322W
+Florence	Pike	393738N	0903638W
+Florid	Putnam	411343N	0891651W
+Flossmoor	Cook	413234N	0874105W
+Flossmoor Highlands	Cook	413246N	0874248W
+Flowerfield	Du Page	415202N	0880202W
+Foosland	Champaign	402141N	0882541W
+Forest City	Mason	402212N	0894939W
+Forest Homes	Madison	385452N	0900509W
+Forest Lake	Lake	421227N	0880320W
+Forest Park	Will	413245N	0880323W
+Forest View	Cook	414831N	0874736W
+Forman	Massac	372048N	0885426W
+Formosa Junction	Madison	384226N	0895541W
+Forrest	Livingston	404507N	0882440W
+Forreston	Ogle	420734N	0893445W
+Forsyth	Macon	395557N	0885704W
+Fort Gage	Randolph	375738N	0895416W
+Fossland	Lake	422940N	0875706W
+Foster Pond	Monroe	381842N	0901339W
+Fosterburg	Madison	385818N	0900430W
+Fountain	Monroe	382145N	0901658W
+Fountain Creek	Iroquois	403058N	0874839W
+Fountain Gap	Monroe	382315N	0901518W
+Fountain Green	Hancock	402833N	0905809W
+Four Corners	Madison	384306N	0900432W
+Fowler	Adams	400028N	0911530W
+Fox	Kendall	413723N	0882942W
+Fox Lake	Lake	422348N	0881101W
+Fox Lake Hills	Lake	422429N	0880754W
+Fox River Estates	Kane	415736N	0881835W
+Fox River Grove	McHenry	421203N	0881252W
+Fox River Valley Gardens	McHenry	421433N	0881207W
+Francis	Saline	375359N	0882711W
+Frankfort	Will	412945N	0875055W
+Franklin	Morgan	393713N	0900238W
+Franklin Corners	Whiteside	415501N	0895438W
+Franklin Grove	Lee	415030N	0891801W
+Franklin Park	Cook	415607N	0875156W
+Franklinville	McHenry	421636N	0883040W
+Franks	De Kalb	414239N	0884047W
+Fravet	Tazewell	402656N	0892214W
+Frederick	Schuyler	400412N	0902544W
+Freeburg	St Clair	382539N	0895449W
+Freeman Spur	Williamson	375140N	0885950W
+Freeport	Stephenson	421748N	0893716W
+Fremont Center	Lake	421752N	0880417W
+French Village	St Clair	383601N	0900300W
+Frielings	Kankakee	410938N	0880647W
+Friendsville	Wabash	383011N	0874859W
+Frisco	Franklin	380648N	0884642W
+Frogtown	Washington	382632N	0892930W
+Frontenac	Du Page	414441N	0881358W
+Fruit	Madison	384951N	0895145W
+Fruitland	Rock Island	412817N	0903100W
+Fruitland Landing	Calhoun	385218N	0903403W
+Fulkerson Landing	Jersey	385821N	0903245W
+Fuller	Coles	393538N	0882812W
+Fullerton	De Witt	401237N	0884440W
+Fulls	Champaign	400648N	0880525W
+Fulton	Whiteside	415202N	0900934W
+Fults	Monroe	380958N	0901257W
+Funkhouser	Effingham	390539N	0883716W
+Funks Grove	Mclean	402149N	0890652W
+Furman	St Clair	383605N	0895800W
+Future City	Alexander	370144N	0891117W
+Galatia	Saline	375026N	0883633W
+Gale	Alexander	371456N	0892651W
+Galena	Jo Daviess	422500N	0902544W
+Galena Junction	Jo Daviess	422226N	0902635W
+Galesburg	Knox	405652N	0902216W
+Galesville	Piatt	400919N	0883323W
+Gallagher	Richland	383804N	0881002W
+Galt	Whiteside	414722N	0894544W
+Galton	Douglas	394422N	0881801W
+Galva	Henry	411003N	0900233W
+Ganntown	Johnson	372148N	0884703W
+Garber	Ford	403057N	0882254W
+Gard	Madison	385144N	0895736W
+Garden Heights	Saline	374313N	0883137W
+Garden of Eden	Kankakee	411011N	0873342W
+Garden Plain	Whiteside	414803N	0900749W
+Garden Prairie	Boone	421512N	0884329W
+Gardena	Tazewell	403811N	0893019W
+Gardner	Grundy	411108N	0881835W
+Gards Point	Wabash	382828N	0875440W
+Garfield	La Salle	410506N	0885722W
+Garland	Edgar	394306N	0874841W
+Garnerville	White	380652N	0880311W
+Garrett	Douglas	394755N	0882527W
+Garrison	Hamilton	381454N	0883109W
+Gartside	St Clair	383238N	0900210W
+Gays	Moultrie	392729N	0882938W
+Gears Ferry	Jo Daviess	422321N	0902754W
+Geff (Jeffersonville)	Wayne	382633N	0882415W
+Geneseo	Henry	412653N	0900915W
+Geneva	Kane	415315N	0881819W
+Geneva Road	Du Page	415317N	0880905W
+Genoa	De Kalb	420550N	0884134W
+Georgetown	Carroll	420823N	0894943W
+Gerald	Champaign	401614N	0875548W
+Gerlaw	Warren	405913N	0903606W
+German Corner	Henry	411737N	0900151W
+German Valley	Stephenson	421256N	0892824W
+Germantown	Clinton	383313N	0893218W
+Germantown Hills	Woodford	404559N	0892804W
+Gibson City	Ford	402755N	0882233W
+Gibsonia	Gallatin	373849N	0881545W
+Gifford	Mclean	401821N	0880116W
+Gila	Jasper	390646N	0881537W
+Gilberts	Kane	420612N	0882222W
+Gilbirds	Brown	395523N	0904205W
+Gilchrist	Fulton	403850N	0900223W
+Gilead	Calhoun	390727N	0904002W
+Gilead Landing	Calhoun	390723N	0904059W
+Gillespie	Macoupin	390747N	0894910W
+Gilletts	Will	413102N	0875613W
+Gillum	Mclean	402428N	0885358W
+Gilman	Ford	404600N	0875932W
+Gilmer	Lake	421406N	0880246W
+Gilmore	Bond	385840N	0893712W
+Gilson	Knox	405142N	0901205W
+Ginger Hill	Rock Island	412617N	0903402W
+Gingle Corners	Mercer	411547N	0904409W
+Girard	Macoupin	392647N	0894651W
+Gladstone	Henderson	405152N	0905740W
+Glasford	Peoria	403421N	0894848W
+Glasgow	Scott	393302N	0902848W
+Glen Avon	Mclean	402046N	0883533W
+Glen Carbon	Madison	384454N	0895859W
+Glen Carbon Crossing	Madison	384508N	0895719W
+Glen Ellyn	Du Page	415239N	0880401W
+Glen Oak	Du Page	415254N	0880221W
+Glenarm	Sangamon	393725N	0893856W
+Glenburn	Vermilion	400834N	0874606W
+Glencoe	Cook	420806N	0874529W
+Glendale	Pope	372720N	0884017W
+Glendale Heights	Du Page	415437N	0880418W
+Glenn	Jackson	374813N	0893450W
+Glenview	St Clair	383513N	0895614W
+Glenwood	Cook	413233N	0873608W
+Glover	Champaign	400649N	0880108W
+Godfrey	Madison	385728N	0901112W
+Godley	Grundy	411412N	0881437W
+Goeselville	Cook	413727N	0874706W
+Golconda	Pope	372202N	0882911W
+Golden	Adams	400633N	0910103W
+Golden Acres	Peoria	404438N	0893754W
+Golden Eagle	Calhoun	385336N	0903444W
+Golden Gardens	St Clair	383522N	0900624W
+Golden Gate	Wayne	382134N	0881215W
+Golden Lily	Alexander	370432N	0891109W
+Golf	Cook	420332N	0874733W
+Good Hope	Mcdonough	403328N	0904024W
+Goodenow	Lake	412329N	0873812W
+Goodfield	Woodford	403747N	0891629W
+Goodings Grove	Will	413745N	0875551W
+Goodrich	Kankakee	410632N	0880329W
+Goodwine	Iroquois	403402N	0874704W
+Gordon	Crawford	390029N	0874105W
+Goreville	Johnson	373316N	0885820W
+Gorham	Jackson	374306N	0892909W
+Gorman	Grundy	411540N	0882030W
+Gossett	White	375524N	0882209W
+Gougars	Will	413125N	0880017W
+Gowins	Pope	372637N	0882804W
+Grafton	Jersey	385812N	0902553W
+Grand Chain Landing	Pulaski	371335N	0885935W
+Grand Detour	Ogle	415348N	0892442W
+Grand Pass	Greene	392728N	0903546W
+Grand Ridge	La Salle	411413N	0884953W
+Grand Tower	Jackson	373735N	0892952W
+Grandview	Effingham	393228N	0875046W
+Graney	Madison	385001N	0895449W
+Granite City	Madison	384205N	0900855W
+Grantfork	Madison	384948N	0893956W
+Grantsburg	Johnson	372327N	0884449W
+Granville	Putnam	411540N	0891339W
+Grape Creek	Vermilion	400404N	0873555W
+Gray Ford	Vermilion	401701N	0874743W
+Graymont	Livingston	405240N	0884637W
+Grays Corner	Lawrence	383836N	0874319W
+Grayslake	Lake	422040N	0880230W
+Grayville	Edwards	381527N	0875937W
+Greathouse Ford	Wayne	382728N	0883749W
+Green Acres	Sangamon	395336N	0894024W
+Green Brier	Crawford	385431N	0875426W
+Green Creek	Effingham	391210N	0883124W
+Green River	Henry	412832N	0901909W
+Green Rock	Henry	412823N	0902127W
+Green Valley	Tazewell	402427N	0893834W
+Greenbush	Warren	404243N	0903207W
+Greendale	Clay	383747N	0884152W
+Greenfield	Greene	392037N	0901245W
+Greenoak	Bureau	412849N	0892430W
+Greenpond	Pike	392943N	0903834W
+Greenridge	Macoupin	392510N	0894740W
+Greenup	Cumberland	391452N	0880948W
+Greenview	Menard	400459N	0894417W
+Greenville	Bond	385332N	0892447W
+Greenwich	Kankakee	410706N	0875537W
+Greenwood	McHenry	422333N	0882321W
+Greer	Iroquois	403159N	0873541W
+Gretna	Du Page	415353N	0880605W
+Gridley	Mclean	404436N	0885253W
+Griffin	Mercer	411425N	0902922W
+Grigg	Randolph	381126N	0895428W
+Griggsville	Pike	394232N	0904328W
+Grimsby	Jackson	374501N	0892657W
+Grinnell	Massac	371645N	0885220W
+Griswold	Livingston	405447N	0882114W
+Groat	Franklin	375804N	0885216W
+Gross	Hardin	373159N	0881726W
+Gross Point	Cook	420444N	0874321W
+Grove City	Christian	394224N	0891749W
+Groveland	Tazewell	403533N	0893204W
+Guilford	Jo Daviess	422503N	0901801W
+Gulfport	Henderson	404850N	0910510W
+Gurnee	Lake	422213N	0875407W
+Gurney	Cass	395357N	0900300W
+Guthrie	Ford	403030N	0881930W
+Hadley	Lawrence	384310N	0875431W
+Hadley Landing Public Ac	Calhoun	390246N	0903524W
+Haegers Bend	McHenry	421120N	0881538W
+Hagaman	Macoupin	391837N	0900441W
+Hagarstown	Fayette	385636N	0891006W
+Hagener	Cass	395533N	0902350W
+Hahnaman	Whiteside	413754N	0893806W
+Haines	Logan	401451N	0893530W
+Hainesville	Lake	422042N	0880404W
+Haldane	Ogle	420345N	0893426W
+Half Day	Lake	421204N	0875600W
+Hallidayboro	Jackson	375320N	0891413W
+Hallock	Iroquois	403341N	0873546W
+Halls Ford	Coles	392614N	0880925W
+Hallsville	De Witt	400903N	0890534W
+Halsey	Union	373402N	0892710W
+Hamburg	Bond	385158N	0891629W
+Hamburg Landing	Union	372423N	0892444W
+Hamel	Madison	385320N	0895043W
+Hamilton	Hancock	402347N	0912020W
+Hamilton Corners	Whiteside	414227N	0895758W
+Hamlet	Mercer	411850N	0904406W
+Hamletsburg	Pope	370819N	0882554W
+Hammond	Piatt	394749N	0883530W
+Hampshire	Kane	420552N	0883149W
+Hampton	Rock Island	413321N	0902433W
+Hanaford	Franklin	375721N	0885025W
+Hanley Ford	Coles	392345N	0880952W
+Hanna City	Peoria	404130N	0894742W
+Hanover	Jo Daviess	421523N	0901646W
+Hanover Park	Du Page	415958N	0880842W
+Hanson	Fayette	391302N	0890639W
+Harco	Williamson	374745N	0883900W
+Hardin	Calhoun	390924N	0903704W
+Harding	La Salle	413054N	0885058W
+Hardinville	Crawford	385458N	0875013W
+Harlem	Winnebago	422025N	0890104W
+Harmon	Lee	414322N	0893314W
+Harmony	Jefferson	382426N	0884734W
+Harper	Ogle	420829N	0893850W
+Harpster	Ford	402420N	0882655W
+Harris	Edgar	394035N	0874219W
+Harrisburg	Saline	374418N	0883226W
+Harrison	Jackson	374748N	0892013W
+Harrisonville	Grundy	411714N	0881817W
+Harrisonville Landing	Monroe	381644N	0902153W
+Harristown	Macon	395114N	0890502W
+Harrisville	Winnebago	420925N	0890157W
+Hartford	Madison	385000N	0900545W
+Hartland	McHenry	422149N	0883026W
+Hartsburg	Logan	401503N	0892627W
+Hartshorn	Vermilion	400747N	0874219W
+Hartsville	Pope	373209N	0882858W
+Harvard	McHenry	422520N	0883649W
+Harvard Hills	Tazewell	404343N	0892853W
+Harvel	Montgomery	392122N	0893156W
+Harvey	Cook	413636N	0873848W
+Harwood Heights	Cook	415802N	0874827W
+Hastings	Vermilion	395433N	0875329W
+Hastings Landing	Calhoun	385756N	0904015W
+Havana	Mason	401800N	0900339W
+Hawthorn Woods	Lake	421301N	0880258W
+Hayes	Douglas	395145N	0881652W
+Haynes	Sangamon	395058N	0891747W
+Haypress	Greene	392141N	0903205W
+Hazel Crest	Cook	413418N	0874140W
+Hazel Dell	Cumberland	391208N	0880228W
+Hazelgreen	Cook	414100N	0874424W
+Hazelhurst	Carroll	415748N	0894110W
+Heapsville	Henderson	404535N	0910418W
+Heathsville	Crawford	385348N	0873404W
+Heaton	Vermilion	402439N	0873522W
+Hebron	McHenry	422818N	0882556W
+Hecker	Monroe	381818N	0895939W
+Hegeler	Bureau	412221N	0891056W
+Hegewisch	Cook	413913N	0873249W
+Helena	Lawrence	383651N	0875150W
+Helm	Marion	383040N	0884231W
+Helmar	Kendall	413242N	0882902W
+Heman	Macon	395649N	0890620W
+Henderson	Knox	410130N	0902122W
+Henderson Grove	Knox	410111N	0902441W
+Hendrix	Mclean	402510N	0885840W
+Henkel	Lee	413601N	0891025W
+Hennepin	Putnam	411515N	0892032W
+Henning	Vermilion	401818N	0874203W
+Henry	Marshall	410641N	0892123W
+Henton	Shelby	392749N	0885416W
+Herald	White	375759N	0881053W
+Herbert	Boone	420917N	0884634W
+Hermon	Knox	404525N	0901911W
+Herod	Pope	373449N	0882610W
+Herrick	Shelby	391313N	0885904W
+Herrin	Williamson	374811N	0890139W
+Herrin Junction	Williamson	374927N	0890040W
+Herscher	Kankakee	410257N	0880552W
+Hersman	Brown	395700N	0904428W
+Hervey City	Macon	394520N	0885103W
+Hettick	Macoupin	392118N	0900213W
+Hewittsville	Christian	393214N	0891850W
+Heyworth	Mclean	401848N	0885825W
+Hickman	Iroquois	403403N	0874552W
+Hickory Corners	Franklin	375940N	0890008W
+Hickory Grove	Adams	395611N	0911839W
+Hickory Hills	Cook	414332N	0874930W
+Hicks	Hardin	373235N	0882232W
+Hidalgo	Jasper	390921N	0880849W
+Higginsville	Vermilion	401431N	0874526W
+Highland	Madison	384422N	0894016W
+Highland Hills	Du Page	415057N	0880016W
+Highland Park	Lake	421054N	0874801W
+Highmoor	Lake	421159N	0875032W
+Highway Village	Tazewell	403957N	0893245W
+Highwood	Lake	421159N	0874833W
+Hildreth	Edgar	395156N	0875008W
+Hill	Effingham	385549N	0883116W
+Hillcrest	Ogle	415704N	0890352W
+Hillerman	Massac	371412N	0885323W
+Hillery	Vermilion	400752N	0874140W
+Hillsboro	Montgomery	390940N	0892937W
+Hillsdale	Rock Island	413649N	0901022W
+Hillside	Cook	415240N	0875410W
+Hilltop	Menard	400133N	0895231W
+Hillview	Greene	392702N	0903228W
+Himrod	Vermilion	400203N	0873602W
+Hinckley	De Kalb	414608N	0883827W
+Hindsboro	Douglas	394106N	0880801W
+Hines	Cook	415113N	0875022W
+Hinsdale	Du Page	414803N	0875613W
+Hitt	Carroll	415941N	0894408W
+Hodgeville	Pope	372044N	0883337W
+Hodgkins	Cook	414608N	0875128W
+Hoffman	Clinton	383229N	0891549W
+Hoffman Estates	Cook	420234N	0880447W
+Hogue Town	Clark	391125N	0875541W
+Hogville Landing	Calhoun	390458N	0904049W
+Holcomb	Ogle	420353N	0890544W
+Holcombville Corners	McHenry	421730N	0881912W
+Holder	Mclean	402704N	0884815W
+Holiday Hills	McHenry	421724N	0881329W
+Holiday Shores	Madison	385519N	0895626W
+Holland	Effingham	391257N	0884456W
+Holliday	Fayette	391259N	0884929W
+Hollis	Peoria	403548N	0894012W
+Hollowayville	Bureau	412154N	0891749W
+Hollywood Heights	St Clair	383757N	0895947W
+Holmes	Tazewell	402301N	0893507W
+Holmes Corner	Pope	371931N	0883801W
+Holmes Landing	Schuyler	401037N	0901210W
+Homberg	Pope	371931N	0883307W
+Homer	Champaign	400205N	0875729W
+Hometown	Cook	414404N	0874353W
+Homewood	Cook	413326N	0873956W
+Honey Bend	Montgomery	391519N	0893722W
+Honey Creek	Ogle	415925N	0891647W
+Hoodville	Hamilton	380257N	0883138W
+Hookdale	Bond	384935N	0891841W
+Hooper	Iroquois	405609N	0873624W
+Hoopeston	Vermilion	402802N	0874006W
+Hooppole	Henry	413120N	0895435W
+Hope	Vermilion	401220N	0875415W
+Hopedale	Tazewell	402515N	0892452W
+Hopkins Park	Kankakee	410348N	0873730W
+Hopper	Henderson	404708N	0905926W
+Horace	Edgar	394313N	0874224W
+Horatio Gardens	Lake	420952N	0875632W
+Hord	Clay	385304N	0883116W
+Hornsby	Macoupin	391014N	0894442W
+Horseshoe	Saline	374156N	0882244W
+Houston	Randolph	380933N	0894652W
+Howardton	Jackson	373745N	0892752W
+Hoyleton	Washington	382630N	0891627W
+Hubbard	Wayne	381943N	0882136W
+Hubbard Woods	Marion	383052N	0890123W
+Hubly	Menard	400808N	0893932W
+Hudgens	Williamson	373918N	0885627W
+Hudson	Mclean	403621N	0885914W
+Huegely	Washington	382420N	0891906W
+Huey	Clinton	383616N	0891728W
+Huffaker	Sangamon	394029N	0895723W
+Hughes	Edgar	394628N	0875328W
+Hugo	Douglas	394514N	0880856W
+Hull	Pike	394225N	0911224W
+Humboldt	Coles	393615N	0881908W
+Hume	Edgar	394748N	0875207W
+Humm Wye	Hardin	372738N	0882422W
+Humrick	Vermilion	395456N	0873256W
+Hunt City Hunt PO	Jasper	390304N	0880124W
+Hunter	Boone	422544N	0885215W
+Huntley	McHenry	421005N	0882541W
+Huntsville	Schuyler	401128N	0905152W
+Hurricane	Greene	391730N	0902924W
+Hurst	Williamson	374959N	0890834W
+Hustle	Vermilion	402800N	0874955W
+Hutchins Park	Winnebago	422246N	0890357W
+Hutsonville	Crawford	390634N	0873923W
+Hutton	Coles	392445N	0880504W
+Idlewild	Lake	422111N	0875934W
+Idlewood	Jefferson	382249N	0885522W
+Idylside	Will	413108N	0880719W
+Illiana	Vermilion	401147N	0873155W
+Illiana Heights	Kankakee	411008N	0873235W
+Illinois City	Rock Island	412351N	0905358W
+Illiopolis	Sangamon	395113N	0891431W
+Imbs	St Clair	383125N	0900807W
+Ina	Jefferson	380904N	0885414W
+Independence	Pike	393153N	0904729W
+Indian Creek	Lake	421337N	0875847W
+Indian Head Park	Cook	414613N	0875408W
+Indian Hill	Cook	413006N	0873852W
+Indian Oaks	Kankakee	411130N	0875105W
+Indianola	Vermilion	395538N	0874424W
+Industry	Mcdonough	401940N	0903625W
+Ingalls Park	Will	413121N	0880234W
+Ingalton	Du Page	415422N	0881213W
+Ingleside	Lake	422252N	0880823W
+Ingleside Shore	Lake	422406N	0880839W
+Ingraham	Clay	385010N	0882002W
+Inman	Gallatin	375016N	0881023W
+Inverness	Cook	420705N	0880546W
+Iola	Clay	385004N	0883741W
+Iowa Junc	Peoria	403928N	0893817W
+Iowa Junction	Henderson	404114N	0910336W
+Ipava	Fulton	402105N	0901928W
+Irene	Boone	421013N	0885401W
+Iron	White	375826N	0881429W
+Iroquois	Iroquois	404939N	0873455W
+Irving	Montgomery	391221N	0892416W
+Irvington	Washington	382621N	0890946W
+Irwin	Kankakee	410308N	0875902W
+Irwins Park	Sangamon	393734N	0894334W
+Isabel	Edgar	393919N	0875700W
+Island Grove	Sangamon	394327N	0895739W
+Island Lake	Lake	421634N	0881131W
+Itasca	Du Page	415830N	0880026W
+Iuka	Marion	383658N	0884725W
+Ivanhoe	Lake	421644N	0880231W
+Ivesdale	Champaign	395636N	0882719W
+Ivy	Monroe	380905N	0901403W
+Jacksonville	Morgan	394402N	0901344W
+Jacob	Jackson	374442N	0893213W
+Jalapa	Greene	391314N	0901927W
+Jamaica	Vermilion	395928N	0874824W
+Jamesburg	Vermilion	401544N	0874456W
+Jamestown	Clinton	384402N	0893052W
+Janesville	Coles	392227N	0881437W
+Jaques	Brown	395302N	0904435W
+Jeisyville	Christian	393438N	0892418W
+Jenkins	De Witt	400910N	0890201W
+Jerome	Sangamon	394603N	0894050W
+Jerseyville	Jersey	390712N	0901942W
+Jewell Road	Du Page	415236N	0880809W
+Jewett	Cumberland	391228N	0881445W
+Jimtown	Fayette	385916N	0891245W
+Joetta	Hancock	402601N	0905553W
+Johannisburg	Washington	382304N	0893911W
+Johnsburg	McHenry	422248N	0881431W
+Johnsonville	Vermilion	401238N	0874011W
+Johnston City	Williamson	374914N	0885539W
+Johnstown	Cumberland	392148N	0881713W
+Joliet	Will	413130N	0880454W
+Jones	Coles	392709N	0882009W
+Jones Ridge	Jackson	374801N	0893731W
+Jonesboro	Union	372706N	0891605W
+Jonesville	La Salle	411841N	0890417W
+Joppa	Massac	371223N	0885041W
+Joppa Junction	Johnson	371947N	0890153W
+Joslin	Rock Island	413326N	0901319W
+Joy	Mercer	411148N	0905249W
+Joy Prairie	Morgan	394712N	0901753W
+Jules	Cass	395805N	0901537W
+Julien Hill	Pope	372830N	0882843W
+Junction	Gallatin	374324N	0881412W
+Junction City	Marion	383449N	0890740W
+Justice	Cook	414440N	0875016W
+Kahm	Greene	391940N	0901539W
+Kampsville	Calhoun	391752N	0903632W
+Kane	Greene	391124N	0902113W
+Kaneville	Kane	415007N	0883119W
+Kangly	La Salle	410845N	0885225W
+Kankakee	Kankakee	410712N	0875140W
+Kansas	Edgar	393310N	0875622W
+Kaolin	Union	373042N	0891800W
+Kappa	Woodford	404033N	0890028W
+Karbers Ridge	Hardin	373447N	0882000W
+Karnak	Pulaski	371737N	0885831W
+Kasbeer	Bureau	413018N	0892748W
+Kaser	Greene	391758N	0902751W
+Kaskaskia	Randolph	375517N	0895447W
+Kaufman	Madison	385145N	0894638W
+Kedron	Gallatin	373956N	0882029W
+Keenes	Wayne	382017N	0883835W
+Keenesville	Wayne	382408N	0883853W
+Keeneyville	Du Page	415803N	0880713W
+Keensburg	Wabash	382102N	0875207W
+Kegley	Franklin	375434N	0884435W
+Keithsburg	Mercer	410558N	0905633W
+Kell	Marion	382928N	0885423W
+Keller	Peoria	404541N	0893550W
+Kellerville	Adams	395552N	0905604W
+Kellogg	Randolph	380057N	0900316W
+Kellyville	Vermilion	400321N	0873821W
+Kelsey	Mason	401437N	0900237W
+Kemp	Douglas	394144N	0881107W
+Kemper	Jersey	391258N	0900952W
+Kemper Landing	Monroe	380943N	0901630W
+Kempside	Washington	381902N	0892536W
+Kempton	Ford	405608N	0881414W
+Kenilworth	Cook	420509N	0874303W
+Kennedy	Lake	421433N	0875217W
+Kenner	Clay	383845N	0883405W
+Kenney	De Witt	400548N	0890509W
+Kensington	Cook	414041N	0873626W
+Kent	Stephenson	421831N	0895407W
+Kentland	Kendall	413247N	0882602W
+Kentucky	Edgar	393536N	0873640W
+Kenwood	Champaign	400622N	0881740W
+Keptown	Effingham	390444N	0884011W
+Kernan	La Salle	410834N	0884423W
+Kerrick	Mclean	403311N	0885915W
+Kewanee	Henry	411444N	0895529W
+Keyesport	Bond	384431N	0891625W
+Keyesport Landing	Bond	384524N	0891622W
+Keys	Sangamon	394648N	0893423W
+Kibbie	Crawford	390411N	0875617W
+Kickapoo	Peoria	404724N	0894504W
+Kidd	Monroe	380702N	0901022W
+Kidley	Edgar	394442N	0873229W
+Kilbourne	Mason	400907N	0900036W
+Kildeer	Lake	421014N	0880252W
+Kincaid	Christian	393519N	0892452W
+Kinderhook	Pike	394208N	0910911W
+King	Greene	391351N	0903444W
+Kingdom	Lee	415337N	0892337W
+Kingman	Shelby	391801N	0883335W
+Kings	Coles	394045N	0875907W
+Kings Island	Lake	422303N	0881051W
+Kingston	Adams	394900N	0910140W
+Kingston Mines	Peoria	403330N	0894629W
+Kinmundy	Marion	384624N	0885048W
+Kinsman	Grundy	411123N	0883410W
+Kirkland	De Kalb	420533N	0885104W
+Kirksville	Moultrie	393414N	0884006W
+Kirkwood	Warren	405157N	0904454W
+Kisch	Cass	395457N	0901203W
+Kise Crossing	Monroe	382513N	0901528W
+Kishwaukee	Winnebago	420954N	0890900W
+Kittredge	Carroll	420759N	0894644W
+Klines Corner	Wayne	382218N	0881532W
+Klondike	Alexander	370346N	0891354W
+Knapp	Sangamon	394253N	0894900W
+Knob Hill	Kendall	413603N	0882950W
+Knollwood	Lake	421710N	0875308W
+Knox	Knox	405603N	0901517W
+Knoxville	Knox	405430N	0901705W
+Kramm	Peoria	404529N	0894655W
+Kritesville	Calhoun	390557N	0903951W
+Kuhn	Madison	384655N	0895235W
+Kumler	Mclean	401759N	0883441W
+L~Erable	Iroquois	405412N	0875049W
+La Clede	Fayette	385247N	0884255W
+La Crosse	Hancock	403144N	0910122W
+La Fox	Kane	415311N	0882432W
+La Grange	Brown	395650N	0903214W
+La Grange Park	Cook	415005N	0875142W
+La Harpe	Hancock	403500N	0905809W
+La Rue	Union	373244N	0892713W
+Lace	Du Page	414507N	0875803W
+Lacon	Marshall	410129N	0892440W
+Ladd	Bureau	412257N	0891308W
+Lafayette	Stark	410629N	0895817W
+LaHogue	Ford	404548N	0880517W
+Lake Barrington	Lake	421245N	0880909W
+Lake Bluff	Lake	421644N	0875003W
+Lake City	Moultrie	394516N	0884312W
+Lake Corner	Lake	421419N	0880642W
+Lake Creek	Franklin	375234N	0890137W
+Lake Forest	Lake	421531N	0875026W
+Lake Fork	Logan	395814N	0892100W
+Lake in the Hills	McHenry	421054N	0881949W
+Lake Summerset	Winnebago	422716N	0892322W
+Lake Villa	Lake	422501N	0880426W
+Lake Zurich	Lake	421149N	0880536W
+Lakemoor	Lake	421943N	0881156W
+Lakeview	Madison	384256N	0895640W
+Lakewood	Du Page	415500N	0881151W
+Lakewood Shores	Will	411654N	0880841W
+Lamb	Hardin	373154N	0880729W
+LaMoille	Bureau	413154N	0891647W
+Lanark	Carroll	420608N	0895000W
+Lancaster	Peoria	403449N	0895014W
+Landes	Crawford	385153N	0875321W
+Lane	De Witt	400721N	0885120W
+Lanesville	Sangamon	395109N	0892056W
+Langham	Grundy	411748N	0883204W
+Langley	Bureau	412209N	0894117W
+Lansing	Cook	413353N	0873220W
+Lanton	Moultrie	394607N	0883621W
+LaPlace	Macon	394800N	0884303W
+Larchland	Warren	404912N	0903910W
+Larkdale	Macon	395318N	0885443W
+LaRose	Marshall	405856N	0891407W
+Latham	Logan	395807N	0890944W
+Latham Park	Winnebago	422206N	0890346W
+Latona	Jasper	385850N	0881842W
+Laura	Stark	405517N	0895535W
+Laurette	Mclean	401931N	0883236W
+Lawler	Gallatin	374341N	0881709W
+Lawn Ridge	Marshall	405826N	0893745W
+Lawndale	Logan	401305N	0891657W
+Lawrence	Boone	422628N	0883828W
+Lawrenceville	Lawrence	384345N	0874054W
+Layfield	Perry	380623N	0892607W
+Le Claire	Madison	384744N	0895725W
+Le Roy	Mclean	402107N	0884551W
+Leaf River	Ogle	420732N	0892413W
+Leamington	Gallatin	373822N	0881825W
+Lebanon	St Clair	383614N	0894826W
+Ledford	Saline	374200N	0883524W
+Lee	Lee	414742N	0885629W
+Lee Center	Lee	414451N	0891643W
+Leeds	La Salle	410115N	0885917W
+Leesburg	Fulton	401450N	0901902W
+Leesville	Kankakee	410129N	0873730W
+Lehigh	Kankakee	410637N	0880105W
+Leisure City	Pope	372925N	0882633W
+Leithton	Lake	421447N	0875846W
+Leland	La Salle	413645N	0884758W
+Leland Grove	Sangamon	394637N	0894045W
+Lemmon	Sangamon	393153N	0894739W
+Lemont	Cook	414025N	0880006W
+Lena	Stephenson	422246N	0894920W
+Lenzburg	St Clair	381714N	0894902W
+Leon Corners	Whiteside	413539N	0895513W
+Leonard	Iroquois	404607N	0875519W
+Leonore	La Salle	411122N	0885850W
+Lerna	Coles	392506N	0881719W
+Lester	Marion	384809N	0885835W
+Leverett	Champaign	401121N	0881235W
+Levings	Pulaski	371302N	0890342W
+Lewis Corner	Pope	371621N	0883446W
+Lewisburg	Menard	395812N	0894957W
+Lewistown	Fulton	402335N	0900917W
+Lexington	Mclean	403829N	0884700W
+Liberty	Adams	395246N	0910628W
+Libertyville	Lake	421659N	0875711W
+Lick Creek	Union	373121N	0890430W
+Lidice	Will	413317N	0880525W
+Lifers Landing	Hancock	401454N	0912909W
+Lightsville	Ogle	420849N	0892415W
+Lilly	Tazewell	403215N	0891712W
+Lillyville	Cumberland	391123N	0882707W
+Lily Cache	Will	413525N	0881053W
+Lily Lake	Kane	415656N	0882840W
+Lilymoor	McHenry	421950N	0881247W
+Lima	Adams	401039N	0912242W
+Limerick	Bureau	412941N	0892801W
+Lincoln	Logan	400854N	0892153W
+Lincoln Estates	Will	413009N	0874825W
+Lincolnwood	Cook	420016N	0874348W
+Lincolnwood Hills	Will	413041N	0875445W
+Lindenhurst	Lake	422438N	0880134W
+Lindenwood	Ogle	420311N	0890150W
+Lintner	Macon	394800N	0884004W
+Lipsey	Coles	392929N	0882504W
+Lis	Jasper	390112N	0881537W
+Lisbon	Kendall	412853N	0882856W
+Lisbon Center	Kendall	413128N	0882602W
+Lisle	Du Page	414804N	0880429W
+Litchfield	Kankakee	410948N	0873512W
+Literberry	Morgan	395115N	0901158W
+Lithia	Shelby	392539N	0884304W
+Little America	Fulton	402421N	0900204W
+Little Indian	Cass	395315N	0901204W
+Little Rock	Kendall	414303N	0883434W
+Little York	Warren	410040N	0904446W
+Littleton	Schuyler	401402N	0903720W
+Lively Grove	Washington	381823N	0893641W
+Liverpool	Fulton	402330N	0900003W
+Livingston	Clark	392424N	0873846W
+Loami	Sangamon	394032N	0895048W
+Lockhaven	Jersey	385626N	0901717W
+Lockport	Will	413522N	0880328W
+Loda	Iroquois	403103N	0880419W
+Lodemia	Livingston	404826N	0883357W
+Lodge	Piatt	400622N	0883336W
+Log Cabin Camp	Kankakee	410942N	0873456W
+Logan	Edgar	394414N	0873618W
+Lomax	Henderson	404044N	0910422W
+Lombard	Du Page	415248N	0880028W
+Lombardville	Stark	411316N	0893930W
+London Mills	Fulton	404238N	0901558W
+Lone Tree	Henderson	405013N	0910105W
+Long Branch	Mason	401302N	0900216W
+Long Creek	Macon	394843N	0885051W
+Long Grove	Lake	421042N	0875952W
+Long Lake	Lake	422247N	0880705W
+Long Point	Livingston	410017N	0885330W
+Long Shore Park	Peoria	404522N	0893339W
+Longview	Champaign	395312N	0880359W
+Loogootee	Fayette	385417N	0885113W
+Loon Lake	Lake	422649N	0880524W
+Loose Pulley Junction	Ogle	420734N	0891326W
+Loraine	Adams	400915N	0911320W
+Loran	Stephenson	421406N	0895437W
+Lorenzo	Will	412050N	0881256W
+Loretto	Livingston	405840N	0882605W
+Lostant	La Salle	410834N	0890336W
+Lotus	Champaign	401908N	0882721W
+Lotus Woods	Lake	422519N	0881023W
+Louisville	Clay	384620N	0883009W
+Love	Bureau	413409N	0894821W
+Loves Corner	Hardin	372944N	0881014W
+Loves Park	Winnebago	421912N	0890329W
+Lovilla	Hamilton	380924N	0884000W
+Lovington	Moultrie	394256N	0883757W
+Low Point	Woodford	405221N	0891848W
+Lowder	Sangamon	393303N	0895045W
+Lowell	La Salle	411502N	0890038W
+Loxa	Coles	392950N	0881602W
+Lucas	Logan	401824N	0892203W
+Ludlow	Mclean	402313N	0880739W
+Lumaghi Heights	Madison	384013N	0895652W
+Lusk	Pope	372858N	0882827W
+Luther	Mason	401136N	0893911W
+Lyndon	Whiteside	414303N	0895533W
+Lynn Center	Henry	411745N	0902128W
+Lynnville	Morgan	394113N	0902045W
+Lynwood	Cook	413135N	0873219W
+Lyons	Cook	414848N	0874905W
+Mabel	Edgar	395235N	0874132W
+Macedonia	Franklin	380307N	0884219W
+Mackinaw	Tazewell	403213N	0892127W
+Mackinaw Dells	Woodford	403726N	0891351W
+Macomb	Mcdonough	402733N	0904018W
+Macon	Macon	394246N	0885949W
+Macoupin	Macoupin	391248N	0895726W
+Madison	Madison	384057N	0900925W
+Madonnaville	Monroe	381554N	0901448W
+Maeystown	Monroe	381329N	0901400W
+Magnet	Coles	392621N	0882352W
+Magnolia	Putnam	410649N	0891140W
+Mahomet	Champaign	401143N	0882415W
+Maizetown	Vermilion	395715N	0874816W
+Makanda	Jackson	373703N	0891232W
+Malden	Bureau	412528N	0892209W
+Malta	De Kalb	415547N	0885139W
+Malvern	Whiteside	415119N	0895312W
+Manchester	Scott	393232N	0901956W
+Manhattan	Will	412521N	0875909W
+Manito	Mason	402533N	0894645W
+Manley	Fulton	403502N	0902532W
+Manlius	Bureau	412723N	0894008W
+Mannon	Mercer	411352N	0905724W
+Mansfield	Piatt	401241N	0883022W
+Manson Ford	Pope	372703N	0883403W
+Manteno	Kankakee	411502N	0874953W
+Manville	Livingston	410318N	0884558W
+Maple	Madison	385137N	0895235W
+Maple Grove	Edwards	383200N	0880538W
+Maple Park	Kane	415427N	0883557W
+Maple Point	Cumberland	391956N	0880647W
+Maples Mill	Fulton	402542N	0900150W
+Mapleton	Peoria	403359N	0894354W
+Maplewood Park	St Clair	383432N	0901034W
+Maquon	Knox	404756N	0900956W
+Marblehead	Adams	395023N	0912206W
+Marcelline	Adams	400705N	0912202W
+Marcoe	Jefferson	381601N	0885759W
+Marcus	Carroll	420930N	0901145W
+Marengo	McHenry	421455N	0883630W
+Marietta	Fulton	403004N	0902333W
+Marigold	Randolph	380447N	0900023W
+Marine	Madison	384711N	0894639W
+Marion	Williamson	374350N	0885559W
+Marissa	St Clair	381500N	0894500W
+Mark	Putnam	411552N	0891500W
+Market Place	Cook	420246N	0875621W
+Markham	Morgan	394445N	0901940W
+Marley	Edgar	393046N	0873654W
+Marlow	Jefferson	381915N	0884736W
+Maroa	Macon	400211N	0885725W
+Marquette	Bureau	411951N	0891545W
+Marquette Heights	Tazewell	403703N	0893601W
+Marseilles	La Salle	411951N	0884229W
+Marshall	Clark	392329N	0874137W
+Marshall Landing	Calhoun	385727N	0903021W
+Martin Landing	Calhoun	385437N	0903817W
+Martinsburg	Pike	393057N	0905033W
+Martinsville	Clark	392008N	0875255W
+Martinton	Iroquois	405457N	0874331W
+Marydale	Clinton	384151N	0892219W
+Maryland	Ogle	420356N	0893250W
+Maryland Place	Madison	384354N	0900636W
+Maryville	Madison	384325N	0895721W
+Marywood	Kane	414737N	0881725W
+Mascoutah	St Clair	382925N	0894735W
+Mason	Effingham	385711N	0883725W
+Mason City	Mason	401208N	0894153W
+Massbach	Jo Daviess	421446N	0900718W
+Matanzas	Mason	401352N	0900558W
+Matanzas Beach	Mason	401435N	0900614W
+Matherville	Mercer	411535N	0903628W
+Matteson	Cook	413014N	0874247W
+Matthews	Perry	375803N	0892226W
+Matthews Junction	Jackson	375709N	0892226W
+Mattoon	Coles	392859N	0882222W
+Maud	Wabash	382351N	0875119W
+Maunie	White	380208N	0880244W
+Maxwell	Peoria	404119N	0894201W
+Mayberry	Wayne	381614N	0883255W
+Mays	Edgar	393744N	0874732W
+Maysville	Pike	394227N	0904757W
+Maytown	Lee	413742N	0892204W
+Mayview	Champaign	400648N	0880637W
+Maywood	Cook	415245N	0875035W
+Mazon	Grundy	411429N	0882510W
+Mazonia	Grundy	411233N	0881652W
+Mc*nabb	Putnam	411037N	0891233W
+McCall	Hancock	402710N	0911149W
+McCann Ford	Cumberland	392224N	0881037W
+McClay Orchard	Greene	392800N	0903130W
+McClure	Alexander	371904N	0892553W
+McClusky	Jersey	390236N	0901913W
+McConnell	Stephenson	422604N	0894353W
+McCook	Cook	414752N	0875041W
+McCormick	Pope	373302N	0884014W
+McCormick Place	Cook	415110N	0873642W
+McCown	Edgar	394757N	0875541W
+McCullom Lake	McHenry	422206N	0881733W
+McDowell	Livingston	404950N	0883506W
+McGirr	De Kalb	414903N	0884808W
+McHenry	McHenry	422041N	0881626W
+McHenry Shores	McHenry	421908N	0881529W
+McKeen	Clark	392730N	0873650W
+McKinley	Washington	381357N	0893254W
+McLean	Mclean	401852N	0891011W
+McLeansboro	Hamilton	380536N	0883208W
+McNulta	Mclean	402215N	0882921W
+McQueen	Kane	420343N	0882305W
+McVey	Macoupin	392323N	0894447W
+Meadow Heights	Madison	384130N	0895928W
+Meadowbrook	Madison	385354N	0900024W
+Meadows	Mclean	404440N	0884817W
+Mechanicsburg	Sangamon	394834N	0892350W
+Media	Henderson	404630N	0904955W
+Medinah	Du Page	415853N	0880304W
+Medora	Macoupin	391028N	0900835W
+Meeks	Vermilion	395959N	0873504W
+Melody	Lake	421425N	0875257W
+Melrose	Clark	391324N	0874551W
+Melrose Park	Cook	415402N	0875124W
+Melville	Madison	385613N	0901445W
+Melvin	Ford	403403N	0881452W
+Melwood	Edgar	394542N	0875149W
+Menard	Randolph	375436N	0895023W
+Mendon	Adams	400518N	0911701W
+Mendota	La Salle	413250N	0890703W
+Menominee	Jo Daviess	422916N	0903159W
+Meppen	Calhoun	385949N	0903617W
+Meredith	Kane	415358N	0883225W
+Meredosia	Morgan	394952N	0903334W
+Meriden	La Salle	413417N	0890200W
+Mermet	Massac	371623N	0885046W
+Merna	Mclean	403100N	0884933W
+Merriam	Wayne	382145N	0881638W
+Merrionette Park	Cook	414103N	0874201W
+Merritt	Scott	394252N	0902457W
+Metamora	Woodford	404726N	0892138W
+Metcalf	Edgar	394804N	0874826W
+Metropolis	Massac	370904N	0884355W
+Mettawa	Lake	421400N	0875533W
+Meyer	Adams	400852N	0913012W
+Michael	Calhoun	391407N	0903724W
+Michael Landing Public A	Calhoun	391407N	0903629W
+Michigan Beach	Will	413053N	0880344W
+Mid City	Greene	391319N	0902329W
+Middeal	Carroll	415830N	0895917W
+Middle Creek	Hancock	402222N	0910138W
+Middlebury	Kane	420839N	0881417W
+Middlegrove	Fulton	404216N	0900558W
+Middlepoint	White	375602N	0881747W
+Middlesworth	Shelby	392444N	0884255W
+Middleton	Wayne	381735N	0884011W
+Middletown	Logan	400601N	0893527W
+Midland City	De Witt	400843N	0890801W
+Midlothian	Cook	413731N	0874303W
+Midway	Madison	385543N	0895819W
+Milan	Rock Island	412711N	0903419W
+Miles	Macoupin	390410N	0900626W
+Milford	Iroquois	403742N	0874146W
+Mill Creek	Union	372030N	0891509W
+Mill Shoals	White	381455N	0882048W
+Milla	La Salle	410829N	0885900W
+Millbrook	Kendall	413554N	0883310W
+Millburn	Lake	422533N	0880014W
+Milledgeville	Carroll	415748N	0894628W
+Miller	St Clair	383206N	0895612W
+Miller City	Alexander	370639N	0892122W
+Millersburg	Mercer	411429N	0904906W
+Millersville	Christian	392704N	0890929W
+Millhurst	La Salle	413722N	0883308W
+Millington	Kendall	413345N	0883554W
+Millsdale	Will	412606N	0880951W
+Millstadt	St Clair	382741N	0900530W
+Millstadt Junction	Monroe	382742N	0901304W
+Millville	Jo Daviess	422656N	0900305W
+Milmine	Piatt	395427N	0883901W
+Milne	Shelby	391547N	0884732W
+Milo	Bureau	411133N	0893456W
+Milroy	Henderson	410107N	0905515W
+Milton	Pike	393352N	0903901W
+Mindale	Tazewell	402533N	0892211W
+Mineral	Bureau	412257N	0895011W
+Minier	Tazewell	402601N	0891847W
+Minonk	Woodford	405416N	0890204W
+Minooka	Grundy	412719N	0881542W
+Mira	Champaign	400502N	0880944W
+Missa	Livingston	410554N	0884432W
+Missionfield	Vermilion	400617N	0874513W
+Mitchell	Franklin	375508N	0890246W
+Mitchellsville	Saline	373902N	0883216W
+Mitchie	Monroe	381237N	0902000W
+Moccasin	Effingham	390850N	0884528W
+Mode	Shelby	391559N	0884401W
+Modena	Stark	410807N	0894547W
+Modesto	Macoupin	392842N	0895855W
+Modoc	Randolph	380309N	0900214W
+Moellenbrocks	Madison	384223N	0900420W
+Mokena	Will	413134N	0875321W
+Moline	Rock Island	413024N	0903054W
+Momence	Kankakee	411000N	0873946W
+Monaville	Lake	422358N	0880641W
+Monee	Lake	412512N	0874430W
+Monica	Stark	405525N	0894923W
+Monmouth	Warren	405441N	0903850W
+Monroe Center	Ogle	420554N	0890002W
+Monroe City	Monroe	381521N	0901557W
+Mont	Madison	384602N	0895549W
+Monterey	Fulton	403152N	0895645W
+Montezuma	Pike	393307N	0903447W
+Montgomery	Kane	414350N	0882045W
+Monticello	Piatt	400140N	0883424W
+Montrose	Effingham	390955N	0882245W
+Moon	Livingston	410404N	0885121W
+Moonshine	Clark	391126N	0875344W
+Moores Corner	Vermilion	401559N	0873907W
+Mooseheart	Kane	414926N	0882005W
+Morea	Crawford	385536N	0873756W
+Morehaven	Winnebago	422528N	0890124W
+Moriah	Clark	391302N	0875622W
+Moro	Madison	385529N	0900119W
+Moronts	Putnam	411710N	0891740W
+Morreville	Brown	395101N	0904801W
+Morris	Grundy	412126N	0882516W
+Morrison	Whiteside	414835N	0895754W
+Morrisonville	Christian	392512N	0892720W
+Morristown	Henry	412347N	0901755W
+Morse	Stark	411349N	0893842W
+Morseville (Plum River)	Jo Daviess	421820N	0895845W
+Mortimer	Edgar	395119N	0874328W
+Morton	Tazewell	403646N	0892733W
+Morton Grove	Cook	420226N	0874657W
+Moscow	Union	372441N	0890309W
+Mossville	Peoria	404856N	0893404W
+Mound City	Pulaski	370507N	0890945W
+Mound Station Timewell P	Brown	400028N	0905225W
+Mounds	Pulaski	370651N	0891152W
+Mount Auburn	Christian	394558N	0891542W
+Mount Carbon	Jackson	374507N	0891916W
+Mount Carmel	Wabash	382439N	0874541W
+Mount Carroll	Carroll	420542N	0895841W
+Mount Clare	Macoupin	390555N	0894934W
+Mount Erie	Wayne	383054N	0881352W
+Mount Joy	Logan	401712N	0891655W
+Mount Morris	Ogle	420301N	0892552W
+Mount Olive	Macoupin	390420N	0894338W
+Mount Palatine	La Salle	411133N	0890947W
+Mount Pleasant	Union	372707N	0890425W
+Mount Prospect	Cook	420359N	0875614W
+Mount Pulaski	Logan	400039N	0891656W
+Mount Sterling	Brown	395914N	0904548W
+Mount Vernon	Jefferson	381902N	0885411W
+Mount Zion	Macon	394617N	0885227W
+Mountain Glen	Union	373139N	0891723W
+Moweaqua	Shelby	393729N	0890108W
+Mozier	Calhoun	391733N	0904457W
+Mozier Landing	Calhoun	391520N	0904333W
+Mudds Landing	Randolph	380033N	0900313W
+Muddy	Saline	374554N	0883100W
+Mulberry Grove	Bond	385530N	0891608W
+Mulkeytown	Franklin	375815N	0890641W
+Muncie	Vermilion	400656N	0875041W
+Mundelein	Lake	421547N	0880014W
+Munger	Du Page	415752N	0881322W
+Munstel	Livingston	410620N	0885410W
+Murdock	Douglas	394803N	0880442W
+Murphysboro	Jackson	374552N	0892006W
+Murrayville	Morgan	393508N	0901507W
+Mylith Park	Lake	421551N	0881130W
+Myrtle	Ogle	421005N	0892124W
+Nachusa	Lee	414953N	0892323W
+Nameoki	Madison	384354N	0900740W
+Naperville	Du Page	414709N	0880850W
+Naplate	La Salle	412001N	0885241W
+Naples	Scott	394526N	0903626W
+Narita	Logan	395859N	0891308W
+Nashville	Washington	382037N	0892250W
+Nason	Jefferson	381034N	0885803W
+National City	St Clair	383844N	0900939W
+Natrona	Mason	401615N	0893756W
+Nauvoo	Hancock	403300N	0912305W
+Neadmore	Clark	391457N	0875137W
+Neal	Cumberland	391807N	0882030W
+Nebo	Pike	392633N	0904727W
+Neelyville PO	Morgan	394523N	0902835W
+Neilson	Williamson	373749N	0885738W
+Nekoma	Henry	411022N	0901119W
+Nelson	Lee	414747N	0893606W
+Neoga	Cumberland	391910N	0882710W
+Neponset	Bureau	411745N	0894725W
+Nettle Creek	Grundy	412633N	0883441W
+Neunert	Jackson	374322N	0893244W
+Nevada	Livingston	410509N	0883305W
+Nevins	Edgar	393202N	0873819W
+New Athens	St Clair	381935N	0895237W
+New Badan	Clinton	383206N	0894202W
+New Bedford	Bureau	413046N	0894314W
+New Berlin	Sangamon	394331N	0895438W
+New Boston	Mercer	411013N	0905948W
+New Burnside	Johnson	373445N	0884615W
+New Canton	Pike	393810N	0910545W
+New City	Sangamon	394013N	0893207W
+New Columbia	Massac	371838N	0884631W
+New Dennison	Williamson	374134N	0885120W
+New Design	Monroe	381605N	0900706W
+New Douglas	Madison	385812N	0893959W
+New Grand Chain (Grand C	Pulaski	371507N	0890116W
+New Hanover	Monroe	382312N	0901338W
+New Hartford	Pike	393432N	0905436W
+New Haven	Gallatin	375431N	0880745W
+New Hebron	Crawford	385700N	0874440W
+New Holland	Logan	401105N	0893451W
+New Hope	Williamson	374738N	0884120W
+New Lebanon	De Kalb	420556N	0883611W
+New Lenox	Will	413043N	0875756W
+New Liberty	Pope	370719N	0882652W
+New Memphis	Clinton	382845N	0894042W
+New Milford	Winnebago	421113N	0890404W
+New Minden	Washington	382629N	0892213W
+New Palestine	Randolph	375947N	0894914W
+New Philadelphia	McDonough	402922N	0902820W
+New Salem	Pike	394227N	0905051W
+New Windsor (Windsor)	Mercer	411208N	0902632W
+Newark	Kendall	413213N	0883500W
+Newbern	Jersey	390025N	0902013W
+Newburg	Macon	395852N	0884814W
+Newby	Coles	392627N	0881905W
+Newcastle	Saline	373902N	0884017W
+Newell	Vermilion	400947N	0873501W
+Newman	Douglas	394755N	0875909W
+Newmansville	Cass	400012N	0900042W
+Newport	Madison	384051N	0901033W
+Newton	Jasper	385927N	0880945W
+Newton Corners	Whiteside	414411N	0900659W
+Newtown	Vermilion	401002N	0874609W
+Niantic	Christian	395114N	0890958W
+Niles	Cook	420108N	0874810W
+Nilwood	Macoupin	392353N	0894831W
+Niota	Hancock	403703N	0911716W
+Nipper Corner	Hamilton	380219N	0882813W
+Noble	Richland	384151N	0881325W
+Nokomis	Montgomery	391804N	0891706W
+Noltings	Washington	382916N	0891157W
+Nora	Jo Daviess	422721N	0895643W
+Normal	Mclean	403051N	0885926W
+Normandy	Bureau	413343N	0893857W
+Normantown	Will	413917N	0881356W
+Norridge	Cook	415748N	0874938W
+Norris	Fulton	403733N	0900155W
+Norris City	White	375852N	0881945W
+North Alton	Madison	385520N	0901147W
+North Aurora	Kane	414822N	0881938W
+North Barrington	Lake	421228N	0880826W
+North Chicago	Lake	421932N	0875028W
+North Chillicothe	Peoria	405551N	0893005W
+North Dupo	St Clair	383258N	0901202W
+North Glen Ellyn	Du Page	415331N	0880347W
+North Hampton	Peoria	405552N	0893220W
+North Hanover	Jo Daviess	421737N	0901643W
+North Henderson	Mercer	410521N	0902831W
+North Hooper	Iroquois	405702N	0873625W
+North Mounds	Pulaski	370723N	0891201W
+North Northfield	Cook	420818N	0875253W
+North Park	Winnebago	422034N	0890307W
+North Pekin	Tazewell	403654N	0893720W
+North Plato	Kane	420318N	0882751W
+North Quincy	Adams	395814N	0912346W
+North Riverside	Cook	415034N	0874923W
+North Shore	McHenry	421424N	0882141W
+North Venice	Madison	384051N	0900959W
+Northbrook	Cook	420739N	0874944W
+Northfield	Cook	420559N	0874651W
+Northlake	Cook	415502N	0875344W
+Northville	La Salle	413348N	0884219W
+Nortonville	Morgan	393344N	0900823W
+Norway	La Salle	412756N	0883952W
+Norwood	Mercer	410521N	0903817W
+Norwood Park	Peoria	404220N	0894155W
+Nottingham Woods	Kane	414947N	0882755W
+Novak Park	Kane	415732N	0881904W
+Nutwood	Jersey	390505N	0903321W
+O~Fallon	St Clair	383532N	0895440W
+Oak	Pope	373435N	0883104W
+Oak Brook	Du Page	414958N	0875544W
+Oak Forest	Cook	413610N	0874438W
+Oak Grove	Lake	421747N	0875500W
+Oak Hill	Peoria	404715N	0895159W
+Oak Hills	St Clair	383817N	0895850W
+Oak Lawn	Cook	414315N	0874515W
+Oak Park	Cook	415306N	0874704W
+Oak Ridge	Woodford	404841N	0892615W
+Oakbrook Terrace	Du Page	415100N	0875752W
+Oakdale	Washington	381542N	0893005W
+Oakford	Menard	400609N	0895747W
+Oakglen	Cook	413347N	0873330W
+Oakland	Coles	393914N	0880134W
+Oakland Center	Schuyler	401402N	0903030W
+Oakley	Macon	395234N	0884821W
+Oakwood	Vermilion	400658N	0874642W
+Oakwood Heights	Madison	385254N	0900406W
+Oakwood Hills	McHenry	421447N	0881434W
+Obed	Shelby	393355N	0885409W
+Oblong	Crawford	390007N	0875432W
+Oconee	Shelby	391708N	0890627W
+Ocoya	Livingston	404818N	0884102W
+Odell	Livingston	410013N	0883131W
+Odgen	Wabash	382707N	0874937W
+Odin	Marion	383702N	0890308W
+Ogden	Champaign	400650N	0875722W
+Ogle	Mercer	410626N	0905301W
+Ogles	St Clair	383248N	0900317W
+Oglesby	La Salle	411743N	0890334W
+Ohio	Bureau	413327N	0892739W
+Ohlman	Montgomery	392042N	0891307W
+Oil Center	Crawford	385805N	0874958W
+Oil Grove	Crawford	385146N	0873830W
+Oilfield	Clark	392338N	0875919W
+Okawville	Washington	382603N	0893301W
+Old Brownfield	Pope	372132N	0883547W
+Old Du Quoin	Perry	375830N	0891059W
+Old Gilchrist	Mercer	411352N	0903730W
+Old Kane	Greene	391120N	0902221W
+Old Kaskaskia	Randolph	375656N	0895519W
+Old Marissa	St Clair	381530N	0894515W
+Old Mill Creek	Lake	422519N	0875821W
+Old Niota	Hancock	403648N	0911807W
+Old Pearl	Pike	392630N	0903853W
+Old Princeton	Cass	395241N	0900950W
+Old Ripley	Bond	385346N	0893412W
+Old Salem Chautauqua	Menard	395932N	0895007W
+Old Shawneetown	Gallatin	374149N	0880812W
+Oldenburg	Madison	384749N	0900605W
+Oldtown	Saline	373608N	0884118W
+Olena	Henderson	404708N	0905619W
+Olga	Hamilton	375929N	0883437W
+Olin	Peoria	404510N	0894606W
+Olive Branch	Alexander	371007N	0892106W
+Oliver	Edgar	392902N	0874053W
+Olivet	Vermilion	395631N	0873837W
+Olmsted	Pulaski	371050N	0890520W
+Olney	Richland	384351N	0880507W
+Olympia Fields	Cook	413048N	0874027W
+Omaha	Gallatin	375325N	0881811W
+Omar	Johnson	373006N	0885807W
+Omega	Marion	384216N	0884650W
+Onarga	Iroquois	404254N	0880022W
+Oneco	Stephenson	422915N	0893951W
+Oneida	Knox	410420N	0901331W
+Ontario	Knox	410443N	0901827W
+Ontarioville	Du Page	415915N	0880900W
+Opdyke	Jefferson	381535N	0884726W
+Ophiem	Henry	411509N	0902315W
+Oquawka	Henderson	405555N	0905649W
+Orange	Clark	391224N	0874917W
+Orange Prairie	Peoria	404639N	0894011W
+Orangemans Hall	Mercer	411849N	0903629W
+Orangeville	Stephenson	422806N	0893838W
+Oraville	Jackson	375154N	0892300W
+Orchard Mines	Peoria	403521N	0894040W
+Orchardville	Wayne	383023N	0883901W
+Oreana	Macon	395619N	0885156W
+Oregon	Ogle	420053N	0891956W
+Orient	Franklin	375506N	0885839W
+Orio	Wabash	383316N	0874644W
+Orion	Henry	412117N	0902253W
+Orland Park	Cook	413749N	0875114W
+Orleans	Morgan	394325N	0900446W
+Ormonde	Warren	405118N	0903647W
+Osbernville	Christian	394540N	0891043W
+Osborn	Rock Island	413121N	0901623W
+Osceola	Stark	411247N	0894647W
+Osco	Henry	412052N	0901649W
+Oskaloosa	Clay	384535N	0883856W
+Osman	Mclean	401745N	0882819W
+Ospur	De Witt	400519N	0885719W
+Oswego	Kendall	414058N	0882105W
+Ottawa	La Salle	412044N	0885033W
+Otterville	Jersey	390302N	0902354W
+Otto	Kankakee	410250N	0875328W
+Ottville	Bureau	412053N	0891531W
+Owaneco	Christian	392856N	0891137W
+Owen Center	Winnebago	422206N	0890701W
+Oxville	Scott	394217N	0903340W
+Ozark	Johnson	373233N	0884546W
+Paderborn	St Clair	382137N	0900233W
+Padua	Mclean	402701N	0884550W
+Paineville	Williamson	374832N	0890006W
+Palatine	Cook	420637N	0880203W
+Palermo	Edgar	395156N	0875251W
+Palestine	Crawford	390013N	0873646W
+Palisades	Du Page	414249N	0875601W
+Palm Beach	Lake	422236N	0881150W
+Palmer	Christian	392728N	0892414W
+Palmerton	Cass	400002N	0900856W
+Palmyra	Lee	415106N	0893440W
+Paloma	Adams	400122N	0911142W
+Palos Heights	Cook	414005N	0874747W
+Palos Hills	Cook	414148N	0874901W
+Palos Park	Cook	414002N	0874949W
+Palsgrove	Carroll	421006N	0900125W
+Pana	Christian	392320N	0890448W
+Panama	Bond	390146N	0893127W
+Pankeyville	Saline	374230N	0883210W
+Panola	Woodford	404701N	0890116W
+Papineau	Iroquois	405809N	0874259W
+Paradise	Coles	392437N	0882612W
+Paris	Edgar	393640N	0874146W
+Park City	Lake	422054N	0875303W
+Park Forest	Will	412929N	0874028W
+Park Ridge	Cook	420040N	0875026W
+Parker	Johnson	373413N	0884800W
+Parkersburg	Richland	383523N	0880324W
+Parkland	Peoria	402745N	0894505W
+Parkville	Champaign	395406N	0882149W
+Parnell	De Witt	401323N	0884314W
+Parrish	Franklin	375629N	0884846W
+Passport	Richland	384721N	0881437W
+Patoka	Marion	384519N	0890543W
+Patterson	Greene	392850N	0902858W
+Patterson Springs	Douglas	394732N	0881134W
+Patton	Clark	392837N	0873331W
+Pattonsburg	Marshall	405616N	0891104W
+Pauline	Champaign	400739N	0880021W
+Paulton	Williamson	374550N	0884814W
+Pavillion	Kendall	413638N	0882830W
+Paw Paw	Lee	414120N	0885852W
+Pawnee	Sangamon	393530N	0893449W
+Pawnee Junction	Sangamon	393523N	0893846W
+Paxton	Ford	402737N	0880543W
+Paynes Point	Ogle	420126N	0891224W
+Payson	Adams	394901N	0911432W
+Paytonville	Grundy	412012N	0882552W
+Pearl	Greene	392735N	0903733W
+Pearl City	Stephenson	421555N	0894933W
+Pecatonica	Winnebago	421850N	0892133W
+Pegram	Greene	392047N	0902349W
+Pekin	Tazewell	403403N	0893826W
+Pekin Heights	Tazewell	403247N	0893615W
+Penfield	Champaign	401812N	0875648W
+Pennington Point	Mcdonough	402338N	0903314W
+Penrose	Whiteside	415315N	0894004W
+Peoria	Peoria	404137N	0893520W
+Peoria Heights	Peoria	404450N	0893426W
+Peotone	Will	411956N	0874707W
+Percy	Randolph	380059N	0893707W
+Perdueville	Ford	402756N	0881045W
+Perks	Pulaski	371835N	0890451W
+Perry	Pike	394659N	0904443W
+Perryville	Winnebago	421318N	0885846W
+Pershing	Franklin	375248N	0885755W
+Peru	La Salle	411939N	0890744W
+Pesotum	Champaign	395453N	0881624W
+Peters Creek	Hardin	372916N	0881429W
+Petersburg	Lawrence	383530N	0874952W
+Peterstown	La Salle	412953N	0890848W
+Petersville	Mercer	411646N	0905618W
+Petrolia	Lawrence	384538N	0874644W
+Phelps	St Clair	382921N	0901300W
+Philadelphia	Cass	395526N	0900702W
+Phillipstown	White	380831N	0880118W
+Philo	Champaign	400025N	0880929W
+Phoenix	Cook	413640N	0873805W
+Piasa	Macoupin	390657N	0900725W
+Pierceburg	Crawford	385550N	0875428W
+Pierron	Bond	384648N	0893553W
+Pierron (Baden Baden)	Bond	384635N	0893113W
+Pierson	Piatt	394753N	0883142W
+Pike	Pike	392735N	0910206W
+Pinckneyville	Perry	380449N	0892255W
+Pingree Grove	Kane	420407N	0882448W
+Pinkstaff	Lawrence	384740N	0874009W
+Pioneer	Peoria	404658N	0893917W
+Piopolis	Hamilton	381101N	0883341W
+Piper City	Ford	404524N	0881128W
+Pisgah	Morgan	394007N	0900732W
+Pistakee Highlands	McHenry	422431N	0881223W
+Pitchin	Iroquois	403611N	0875159W
+Pittsburg	Fayette	385217N	0891242W
+Pittsfield	Pike	393628N	0904818W
+Pittwood	Iroquois	405139N	0874346W
+Plainfield	Will	413737N	0881214W
+Plainview	Macoupin	390933N	0895923W
+Plainville	Adams	394709N	0911107W
+Plano	Kendall	413946N	0883213W
+Plato Center	Kane	420136N	0882548W
+Plattville	Kendall	413154N	0882253W
+Pleak	Shelby	393544N	0885618W
+Pleasant Grove	Johnson	372627N	0890147W
+Pleasant Hill	Mclean	403647N	0884449W
+Pleasant Mound	Bond	385147N	0891725W
+Pleasant Plains	Sangamon	395222N	0895516W
+Pleasant Ridge	Madison	384321N	0895840W
+Pleasant Valley	Jo Daviess	421333N	0900137W
+Pleasantview	Schuyler	400611N	0902753W
+Plum Hill	Washington	382146N	0893031W
+Plumfield	Franklin	375329N	0890024W
+Plymouth	Hancock	401730N	0905508W
+Poag	Madison	384749N	0900220W
+Pocahontas	Bond	384940N	0893224W
+Polk	Will	411842N	0873630W
+Polo	Ogle	415910N	0893445W
+Pomona	Jackson	373741N	0892012W
+Ponemah	Warren	404914N	0904220W
+Pontiac	Livingston	405251N	0883747W
+Pontoon Beach	Madison	384354N	0900449W
+Pontoosuc	Hancock	403744N	0911219W
+Poplar City	Mason	401450N	0895623W
+Poplar Grove	Boone	422206N	0884919W
+Poplar Ridge	Jackson	374201N	0892214W
+Poppleton Landing	Calhoun	385425N	0903801W
+Port Byron	Rock Island	413623N	0902007W
+Port Jackson	Crawford	385149N	0874642W
+Portage	Jo Daviess	422258N	0902723W
+Porterfield	Marshall	410503N	0890943W
+Porterville	Crawford	390523N	0874805W
+Portland Corners	Whiteside	413948N	0895844W
+Portuguese Hill	Morgan	394521N	0901255W
+Posen	Washington	381530N	0892008W
+Posey	Clinton	383213N	0892109W
+Post Oak	Fayette	390525N	0885433W
+Potomac	Vermilion	401818N	0874802W
+Pottstown	Peoria	404305N	0893937W
+Pottsville	Union	372519N	0892127W
+Powellton	Hancock	403209N	0911607W
+Powerton	Tazewell	403217N	0894044W
+Prairie	Randolph	381023N	0895635W
+Prairie Center	La Salle	412808N	0885604W
+Prairie City	Mcdonough	403716N	0902743W
+Prairie du Rocher	Randolph	380459N	0900545W
+Prairie Hill	Macon	394517N	0884708W
+Prairie View	Lake	421157N	0875720W
+Prairietown	Madison	385759N	0895519W
+Prairieville	Lee	415029N	0893643W
+Preemption	Mercer	411846N	0903504W
+Prentice	Morgan	395125N	0900237W
+Preston	Randolph	380622N	0895136W
+Prince Crossing	Du Page	415418N	0881104W
+Princeton	Bureau	412205N	0892753W
+Princeville	Peoria	405547N	0894527W
+Proctor	Ford	402444N	0882406W
+Prophetstown	Whiteside	414017N	0895610W
+Prospect	Mclean	401910N	0881246W
+Prospect Heights	Cook	420543N	0875615W
+Prouty	Sangamon	394056N	0895543W
+Providence	Bureau	411641N	0893533W
+Pruett	Fayette	390353N	0885439W
+Pryortown	Pulaski	371125N	0890855W
+Puder	Kankakee	411442N	0873624W
+Pulaski	Pulaski	371249N	0891221W
+Pullman	Cook	414134N	0873621W
+Pureton	Richland	384350N	0881328W
+Putnam	Putnam	411106N	0892347W
+Pyatts	Perry	380011N	0892216W
+Pyramid	Washington	382003N	0891340W
+Quentin Corners	Lake	420959N	0880347W
+Quincy	Adams	395608N	0912435W
+Quincy Junction	Pike	392704N	0910130W
+Quiver Beach	Mason	401948N	0900250W
+Raddle	Jackson	374644N	0893512W
+Radford	Christian	393439N	0890204W
+Radley	Lee	413816N	0885628W
+Radom	Washington	381655N	0891132W
+Rafetown	Jasper	385129N	0880008W
+Rainbow Hills	Kane	415510N	0882212W
+Raleigh	Saline	374937N	0883155W
+Ramsey	Fayette	390840N	0890631W
+Randolph	Mclean	402234N	0885849W
+Rankin	Vermilion	402754N	0875347W
+Ransom	La Salle	410922N	0883858W
+Rantoul	Mclean	401830N	0880921W
+Rapatee	Knox	404254N	0900929W
+Rapids City	Rock Island	413454N	0902036W
+Rardin	Coles	393615N	0880606W
+Raritan	Henderson	404145N	0904938W
+Raum	Pope	372746N	0883115W
+Raven	Edgar	394814N	0873246W
+Ravina	Lake	420949N	0874713W
+Rawalts	Fulton	403312N	0895847W
+Rawson Bridge	McHenry	421432N	0881254W
+Ray	Schuyler	401222N	0902832W
+Raymond	Montgomery	391910N	0893419W
+Raynor Park	Will	413304N	0880540W
+Rayville	Vermilion	401824N	0873930W
+Red Bud	Randolph	381242N	0895939W
+Red Landing	Calhoun	391007N	0904226W
+Red Oak	Stephenson	422332N	0894018W
+Reddick	Kankakee	410550N	0881502W
+Redmon	Edgar	393843N	0875142W
+Reeders	Macoupin	391820N	0900227W
+Reeds	Henderson	405502N	0904931W
+Reeds Station	Jackson	374640N	0890939W
+Rees	Morgan	393808N	0900533W
+Reeseville	Johnson	372035N	0884311W
+Reich Landing	Brown	395845N	0903047W
+Reilly	Vermilion	402457N	0875116W
+Reily Lake	Randolph	375845N	0895515W
+Renault	Monroe	380913N	0900802W
+Rend City	Franklin	380137N	0885905W
+Rennerville	Shelby	392724N	0884826W
+Reno	Bond	385830N	0893050W
+Renshaw	Pope	372116N	0884042W
+Rentchler	St Clair	382929N	0895223W
+Resthaven	Will	411543N	0880810W
+Reynolds	Rock Island	411947N	0904013W
+Reynoldsburg	Johnson	373055N	0884633W
+Reynoldsville	Union	372202N	0892342W
+Rice	Jo Daviess	422021N	0902340W
+Richards	La Salle	411043N	0885010W
+Richardson	Kane	415759N	0883508W
+Richfield	Adams	394855N	0910659W
+Richland	Sangamon	395045N	0895129W
+Richmond	McHenry	422833N	0881821W
+Richton Park	Cook	412904N	0874212W
+Richview	Washington	382242N	0891048W
+Richwoods	Crawford	385729N	0873315W
+Riddle Hill	Sangamon	394712N	0894552W
+Riddleville	Crawford	385107N	0873905W
+Ridge Farm	Vermilion	395344N	0873907W
+Ridgefield	McHenry	421606N	0882141W
+Ridgeville	Iroquois	404249N	0880404W
+Ridgewood	Will	413208N	0880225W
+Ridgway	Gallatin	374757N	0881540W
+Ridott	Stephenson	421747N	0892831W
+Ridott Corners	Stephenson	421631N	0892832W
+Riehl	Madison	385609N	0901626W
+Riffle	Clay	384819N	0883351W
+Riggston	Scott	394143N	0902523W
+Riley	McHenry	421129N	0883757W
+Rileyville	Williamson	375102N	0884022W
+Rinard	Wayne	383414N	0882756W
+Ringwood	McHenry	422332N	0881749W
+Rio	Knox	410633N	0902359W
+Ripley	Brown	400122N	0903819W
+Rising	Champaign	400926N	0882001W
+Rising Sun	Pope	372425N	0883441W
+Risk	Livingston	404015N	0882419W
+Ritchie	Will	411518N	0880619W
+River	Kankakee	410933N	0873536W
+River Forest	Cook	415352N	0874850W
+River Grove	Cook	415533N	0875009W
+Riverdale	Winnebago	422512N	0890146W
+Riverside	Cook	415006N	0874922W
+Riverstream	McHenry	422017N	0881528W
+Riverton	Sangamon	395039N	0893222W
+Riverwoods	Lake	421003N	0875349W
+Roaches	Jefferson	381930N	0890434W
+Roachtown	St Clair	382747N	0900227W
+Roanoke	Woodford	404746N	0891150W
+Robbins	Cook	413838N	0874213W
+Robbs	Pope	372732N	0884159W
+Robein	Tazewell	404118N	0893040W
+Roberts	Ford	403646N	0881100W
+Robinson	Crawford	390019N	0874421W
+Roby	Christian	394421N	0892357W
+Rochelle	Ogle	415526N	0890407W
+Rochester	Sangamon	394458N	0893154W
+Rock	Pope	372446N	0883710W
+Rock City	Stephenson	422448N	0892805W
+Rock Creek	Adams	400245N	0912358W
+Rock Falls	Whiteside	414647N	0894120W
+Rock Grove	Stephenson	422747N	0893043W
+Rock Island	Rock Island	413034N	0903443W
+Rockbridge	Greene	391609N	0901215W
+Rockdale	Will	413022N	0880652W
+Rockdale Junction	Will	413351N	0880624W
+Rockford	Winnebago	421616N	0890538W
+Rockport	Pike	393220N	0910031W
+Rockton	Winnebago	422709N	0890420W
+Rockwood	Randolph	375026N	0894202W
+Rocky Ford	Cumberland	391841N	0881020W
+Rodden	Jo Daviess	421941N	0901913W
+Rodemich	St Clair	382627N	0900816W
+Rohrer	Morgan	393146N	0895735W
+Roland	White	375548N	0881548W
+Rolling Meadows	Cook	420503N	0880047W
+Rollins	Lake	422246N	0880346W
+Rollo	De Kalb	414023N	0885310W
+Rome	Peoria	405259N	0893009W
+Romeo	Will	413826N	0880330W
+Romeoville	Will	413851N	0880522W
+Rondout	Lake	421648N	0875343W
+Roodhouse	Greene	392902N	0902217W
+Roots	Randolph	380104N	0895820W
+Ropers Landing	Pope	371814N	0883032W
+Rosamond	Christian	392247N	0890937W
+Roscoe	Winnebago	422448N	0890033W
+Rose Ford	Pope	372913N	0883210W
+Rose Hill	Jasper	390613N	0880850W
+Rose Lake	St Clair	383824N	0900626W
+Rosebud	Pope	371642N	0883502W
+Rosecrans	Lake	422755N	0875709W
+Rosedale	Jersey	390239N	0903253W
+Roselle	Du Page	415905N	0880447W
+Rosemont	St Clair	383737N	0900550W
+Roseville	Warren	404356N	0903952W
+Rosewood Heights	Madison	385316N	0900505W
+Rosiclare	Hardin	372525N	0882046W
+Roslyn	Cumberland	391346N	0882241W
+Rossville	Vermilion	402245N	0874007W
+Rossville Junction	Vermilion	402128N	0873837W
+Roth	Alexander	370601N	0891826W
+Round Grove	Whiteside	414706N	0895219W
+Round Knob	Massac	371450N	0884415W
+Round Lake	Lake	422112N	0880536W
+Round Lake Beach	Lake	422218N	0880524W
+Round Lake Heights	Lake	422248N	0880615W
+Round Lake Park	Lake	422125N	0880436W
+Round Prairie	Wayne	382726N	0883221W
+Rowe	Livingston	405556N	0884011W
+Rowell	De Witt	400419N	0890146W
+Roxana	Madison	385054N	0900434W
+Roxbury	Lee	414202N	0890222W
+Royal	Champaign	401134N	0875822W
+Royal Heights	St Clair	383239N	0900049W
+Royal Lake	Macoupin	390637N	0895741W
+Royalton	Franklin	375237N	0890652W
+Rozetta	Henderson	405630N	0905149W
+Rudement	Saline	373811N	0882925W
+Rugby	Livingston	405443N	0882925W
+Ruma	Randolph	380806N	0895952W
+Rural Hill	Hamilton	375738N	0883904W
+Rushville	Schuyler	400716N	0903347W
+Russell	Lake	422926N	0875445W
+Russellville	Boone	421941N	0884701W
+Rust	Franklin	380009N	0884540W
+Rutherford	Champaign	400129N	0880309W
+Rutland	La Salle	405903N	0890230W
+Ryan	Vermilion	400301N	0874822W
+Sabina	Mclean	402050N	0883902W
+Sacramento	White	380154N	0882015W
+Sadorus	Champaign	395801N	0882047W
+Sag Bridge	Cook	414118N	0875559W
+Saidora	Mason	400618N	0900841W
+Sailor Springs	Clay	384550N	0882147W
+Saint Anne	Kankakee	410130N	0874250W
+Saint Anne Woods	Kankakee	410215N	0873730W
+Saint Augustine	Knox	404306N	0902439W
+Saint Charles	Kane	415451N	0881831W
+Saint David	Fulton	402936N	0900255W
+Saint Elmo	Fayette	390138N	0885053W
+Saint Francisville	Lawrence	383528N	0873848W
+Saint George	Kankakee	411133N	0874632W
+Saint Jacob	Madison	384250N	0894605W
+Saint James	Fayette	385716N	0885104W
+Saint Joe	Monroe	381358N	0900913W
+Saint Johns	Perry	380151N	0891427W
+Saint Joseph	Champaign	400642N	0880230W
+Saint Libory	St Clair	382145N	0894235W
+Saint Mary	Hancock	402046N	0905602W
+Saint Morgan	Madison	383944N	0894115W
+Saint Paul	Fayette	385110N	0885712W
+Saint Peter	Fayette	385205N	0885114W
+Saint Rose	Clinton	384103N	0893316W
+Saint Thomas	Madison	384543N	0900701W
+Salem	Marion	383737N	0885644W
+Saline	Saline	373843N	0884145W
+Saline Landing	Hardin	373412N	0880749W
+Salisbury	Sangamon	395323N	0894753W
+Saluda	Knox	405219N	0902339W
+Samoth	Massac	371958N	0884715W
+Samsville	Edwards	382923N	0880327W
+San Jose	Logan	401820N	0893610W
+Sand Barrens	Lawrence	383524N	0874138W
+Sand Ridge	Grundy	412526N	0881935W
+Sandburn	Johnson	373033N	0885032W
+Sandoval	Marion	383656N	0890651W
+Sands	Whiteside	414504N	0895143W
+Sandusky	Alexander	371209N	0891620W
+Sandwich	De Kalb	413845N	0883718W
+Sandy Ford	La Salle	411042N	0885442W
+Sangamon	Macon	395200N	0885121W
+Sankoty	Peoria	404534N	0893354W
+Santa Fe Park	Cook	414327N	0875416W
+Saratoga	Grundy	412733N	0882553W
+Saratoga Center	Marshall	410642N	0893531W
+Sato	Jackson	375432N	0892550W
+Sauganash	Cook	415924N	0874432W
+Sauget	St Clair	383547N	0901105W
+Sauk Village	Cook	412918N	0873403W
+Saunders	Sangamon	395107N	0891826W
+Saunemin	Livingston	405335N	0882419W
+Savage	Morgan	394653N	0901239W
+Savanna	Carroll	420540N	0900924W
+Savoy	Champaign	400317N	0881506W
+Sawyerville	Macoupin	390442N	0894826W
+Saybrook	Mclean	402536N	0883134W
+Scales Mound	Jo Daviess	422833N	0901510W
+Scarboro	Lee	414653N	0890203W
+Schaeferville	Tazewell	403252N	0893752W
+Schapville	Jo Daviess	422349N	0901219W
+Schaumburg	Cook	420200N	0880500W
+Scheller	Jefferson	381111N	0890542W
+Schick	Du Page	415706N	0880951W
+Schiller Park	Cook	415721N	0875215W
+Schmieder Landing	Calhoun	385341N	0903140W
+Schnell	Richland	383809N	0881458W
+Schoper	Macoupin	392017N	0894703W
+Schram City	Montgomery	390951N	0892749W
+Schrodts Station	Wabash	382257N	0874930W
+Schrum	Cook	413604N	0873256W
+Schuline	Randolph	380522N	0894644W
+Schwer	Iroquois	403938N	0874717W
+Sciota	Mcdonough	403339N	0904506W
+Scioto Mills	Stephenson	422123N	0894007W
+Scottland	Edgar	394816N	0873618W
+Scottsburg	Mcdonough	403314N	0903537W
+Scottsville	Macoupin	392849N	0900617W
+Scovel	Livingston	405442N	0882354W
+Scraper-Moecherville	Kane	414447N	0881651W
+Seaton	Mercer	410608N	0904805W
+Seatonville	Bureau	412153N	0891635W
+Sebastopol	Madison	384240N	0893602W
+Secor	Woodford	404431N	0890807W
+Seehorn	Pike	394519N	0911540W
+Sefton	Fayette	390415N	0885720W
+Sellers	Champaign	401111N	0880617W
+Selmaville	Marion	383625N	0885943W
+Selsor Ford	Vermilion	401532N	0874742W
+Seminary	Richland	383501N	0880735W
+Seneca	La Salle	411840N	0883635W
+Sepo	Fulton	402037N	0900709W
+Serena	La Salle	412910N	0884353W
+Sesser	Franklin	380530N	0890301W
+Seville	Fulton	402908N	0902037W
+Seward	Winnebago	421420N	0892128W
+Sexson	Shelby	392322N	0883105W
+Seymour	Champaign	400625N	0882536W
+Shabbona	De Kalb	414605N	0885237W
+Shabbona Grove	De Kalb	414357N	0885120W
+Shadow Lawn	Kankakee	410935N	0873418W
+Shady Beach	Henry	413220N	0901148W
+Shady Grove	Massac	370726N	0883357W
+Shafter	Fayette	390049N	0891106W
+Shakerag	Williamson	374920N	0885432W
+Shale City	Mercer	411311N	0903826W
+Shamrock	Mclean	402507N	0885358W
+Shanghai	Warren	410303N	0902948W
+Shannon	Carroll	420917N	0894423W
+Sharpsburg	Christian	393650N	0892104W
+Shattuc	Clinton	383638N	0891134W
+Shaw	Warren	410245N	0903813W
+Shawneetown	Gallatin	374247N	0881112W
+Shaws	Lee	414227N	0891407W
+Sheffield	Bureau	412130N	0894414W
+Shelbyville	Shelby	392423N	0884724W
+Sheldon	Iroquois	404609N	0873350W
+Sheldons Grove	Schuyler	401000N	0901739W
+Shepherd	Pike	394330N	0912040W
+Sherburnville	Kankakee	411344N	0873241W
+Sheridan	La Salle	413148N	0884047W
+Sherman	Sangamon	395337N	0893617W
+Sherrard	Mercer	411908N	0903021W
+Shetlerville	Hardin	372550N	0882427W
+Shields	Jefferson	382804N	0884248W
+Shiloh	St Clair	383341N	0895350W
+Shiloh Hill	Jackson	375531N	0893716W
+Shiloh Station	St Clair	383202N	0895353W
+Shinn	Pike	394035N	0911002W
+Shipman	Macoupin	390703N	0900239W
+Shirland	Winnebago	422640N	0891151W
+Shirley	Jefferson	381706N	0885017W
+Shobonier	Fayette	385210N	0890519W
+Shokokon	Henderson	404451N	0910427W
+Shop Creek	Montgomery	391633N	0893844W
+Shorewood	Will	413112N	0881206W
+Shumway	Effingham	391106N	0883908W
+Sibley	Ford	403513N	0882252W
+Sicily	Christian	393524N	0892928W
+Sidell	Vermilion	395435N	0874916W
+Sidney	Champaign	400130N	0880424W
+Sigel	Shelby	391334N	0882939W
+Signal Hill	St Clair	383438N	0900324W
+Siloam	Brown	395317N	0905457W
+Silver Lake	McHenry	421406N	0881441W
+Silvis	Rock Island	413044N	0902454W
+Simpson	Johnson	372802N	0884518W
+Sims	Wayne	382137N	0883150W
+Sinclair	Morgan	394808N	0900718W
+Skelton	Logan	400834N	0891514W
+Ski Hill	McHenry	421207N	0881225W
+Skokie	Cook	420200N	0874400W
+Skokie Junction	Lake	421533N	0875113W
+Skokie Manor	Lake	421438N	0875128W
+Sleepy Hollow	Kane	420539N	0881809W
+Smithboro	Bond	385346N	0892026W
+Smithdale	Livingston	410505N	0884630W
+Smithfield	Fulton	402824N	0901730W
+Smithshire	Warren	404734N	0904647W
+Smithton	St Clair	382431N	0895931W
+Smithville	Peoria	403937N	0894759W
+Snicarte	Mason	400724N	0901353W
+Snider	Vermilion	401215N	0874152W
+Snyder	Clark	391657N	0874003W
+Sollitt	Kankakee	411736N	0873805W
+Solomon	De Witt	401456N	0884922W
+Solon Mills	McHenry	422632N	0881624W
+Somerset	Saline	373916N	0882726W
+Somonauk	De Kalb	413801N	0884052W
+Soperville	Knox	410031N	0902352W
+Sorento	Bond	385956N	0893425W
+South Addison	Du Page	415418N	0875919W
+South Barrington	Kane	420529N	0880718W
+South Beloit	Winnebago	422935N	0890212W
+South Chicago	Cook	414322N	0873211W
+South Chicago Heights	Cook	412851N	0873816W
+South Danville	Vermilion	400654N	0873815W
+South Deering	Cook	414132N	0873330W
+South Elgin	Kane	415939N	0881732W
+South Elkhorn	Carroll	415800N	0894244W
+South Freeport	Stephenson	421427N	0893421W
+South Holland	Cook	413603N	0873625W
+South Jacksonville	Morgan	394231N	0901341W
+South Lockport	Will	413423N	0880316W
+South Moline	Rock Island	412841N	0903128W
+South Ottawa	La Salle	411954N	0885013W
+South Park	Kane	414408N	0881813W
+South Pekin	Tazewell	402940N	0893906W
+South Rock Island	Rock Island	412846N	0903458W
+South Rome	Peoria	405059N	0893215W
+South Roxana	Madison	384946N	0900346W
+South Wilmington	Grundy	411022N	0881636W
+Southern View	Sangamon	394526N	0893913W
+Southlawn	Sangamon	394513N	0893717W
+Southmoor	Cook	413909N	0874947W
+Southport	Peoria	404733N	0895355W
+Spankey	Jersey	391120N	0903302W
+Sparks Hill	Hardin	373505N	0881713W
+Sparland	Marshall	410143N	0892618W
+Sparta	Randolph	380723N	0894206W
+Spaulding	Sangamon	395158N	0893225W
+Spaulding Corners	Lake	422214N	0875252W
+Speer	Stark	405918N	0893901W
+Spencer	Pike	394239N	0911557W
+Spencer Heights	Pulaski	370738N	0891141W
+Spillertown	Williamson	374559N	0885510W
+Spires	La Salle	405235N	0885737W
+Spring Bay	Woodford	404928N	0893120W
+Spring Garden	Jefferson	380947N	0885120W
+Spring Grove	McHenry	422637N	0881411W
+Spring Hill	Whiteside	413645N	0900242W
+Spring Valley	Bureau	411939N	0891159W
+Springerton	White	381046N	0882115W
+Springfield	Sangamon	394806N	0893837W
+Springville	Union	372228N	0891603W
+Staley	Champaign	400647N	0881845W
+Stallings	Madison	384329N	0900347W
+Standard	Putnam	411524N	0891051W
+Standard City	Macoupin	392108N	0894715W
+Stanford	Mclean	402605N	0891304W
+Staples Corner	Cook	420821N	0880118W
+Star City	Calhoun	390803N	0904025W
+Stark	Stark	405944N	0894438W
+Starks	Kane	420518N	0882724W
+Starne	Sangamon	394927N	0893618W
+State Park Place	Madison	383931N	0900250W
+Staunton	Macoupin	390044N	0894728W
+Stavanger	La Salle	412355N	0883650W
+Ste Marie	Jasper	385556N	0880124W
+Steel City	Franklin	375953N	0885245W
+Steele	Will	413021N	0875744W
+Steeleville	Randolph	380026N	0893930W
+Steelton	Vermilion	400034N	0874044W
+Steger	Lake	412812N	0873811W
+Sterling	Whiteside	414719N	0894146W
+Sterling Place	St Clair	383735N	0900223W
+Steward	Lee	415052N	0890112W
+Stewardson	Shelby	391547N	0883747W
+Stickney	Cook	414917N	0874658W
+Stillman Valley	Ogle	420626N	0891045W
+Stillwell	Hancock	401307N	0911058W
+Stiritz	Williamson	375010N	0885654W
+Stockdale	Grundy	412104N	0882933W
+Stockland	Iroquois	403652N	0873534W
+Stockton	Jo Daviess	422059N	0900024W
+Stoehrs	Tazewell	403123N	0894137W
+Stolle	St Clair	383236N	0901011W
+Stolletown	Clinton	384136N	0892648W
+Stone Church	Washington	382101N	0893731W
+Stone Fort	Jackson	373724N	0891148W
+Stone Park	Cook	415420N	0875301W
+Stonefort	Saline	373651N	0884229W
+Stoneyville	La Salle	411817N	0885011W
+Stonington	Christian	393824N	0891134W
+Stony Island	Cook	414321N	0873430W
+Stoy	Crawford	385951N	0874959W
+Strasburg	Shelby	392109N	0883709W
+Stratford	Ogle	415949N	0892927W
+Stratton	Jefferson	382644N	0884248W
+Straut	Pike	392636N	0904221W
+Strawn	Livingston	403909N	0882347W
+Strawns Crossing	Morgan	394709N	0900903W
+Streamwood	Cook	420132N	0881042W
+Streator	La Salle	410715N	0885007W
+Stringtown	Richland	384930N	0875901W
+Stronghurst	Henderson	404449N	0905414W
+Stubblefield	Bond	385054N	0892759W
+Sublette	Lee	413835N	0891340W
+Sudduth	Sangamon	394218N	0894857W
+Sugar Grove	Kane	414541N	0882637W
+Sugar Island	Kankakee	410023N	0874925W
+Sugarloaf Heights	St Clair	382946N	0901245W
+Sullivan	Moultrie	393558N	0883628W
+Sulphur Springs	La Salle	412509N	0884627W
+Summer Hill	Pike	393247N	0905509W
+Summerfield	St Clair	383550N	0894506W
+Summersville	Jefferson	381940N	0885201W
+Summerville	Macoupin	391120N	0900725W
+Summit	St Clair	383304N	0900017W
+Summum	Fulton	401604N	0901642W
+Sumner	Lawrence	384301N	0875141W
+Sunbeam	Mercer	410738N	0904406W
+Sunbury	Livingston	410603N	0883139W
+Sunfield	Perry	380352N	0891424W
+Sunny Crest	Cook	413209N	0874138W
+Sunny Hill	Henry	412356N	0902457W
+Sunnyland	Tazewell	404129N	0893029W
+Sunnyside	McHenry	422322N	0881334W
+Sunset Landing	Calhoun	385645N	0903949W
+Surrey	Warren	405442N	0902805W
+Sutter	Hancock	401645N	0912036W
+Sutton	Kane	420545N	0881139W
+Swan Creek	Warren	404004N	0903917W
+Swansea	St Clair	383202N	0895920W
+Swanwick	Perry	381011N	0893210W
+Swedona	Mercer	411645N	0902641W
+Sweet Water	Menard	400314N	0894138W
+Swift	Du Page	415513N	0880232W
+Swygert	Livingston	405442N	0883146W
+Sycamore	De Kalb	415920N	0884112W
+Sylvan	Cass	395906N	0900416W
+Sylvan Lake	Lake	421438N	0880310W
+Symerton	Will	411943N	0880309W
+Table Grove	Fulton	402151N	0902530W
+Tabor	De Witt	401050N	0890805W
+Talbott	Tazewell	403037N	0894704W
+Tallmadge	Kankakee	410641N	0873730W
+Tallula	Menard	395640N	0895614W
+Tamalco	Bond	384615N	0891729W
+Tamarack	Will	413903N	0881510W
+Tamaroa	Perry	380816N	0891348W
+Tamms	Alexander	371406N	0891612W
+Tampico	Whiteside	413749N	0894710W
+Tankville	Alexander	370737N	0892301W
+Tansill	Pope	371822N	0883216W
+Tatumville	Alexander	371528N	0891646W
+Taylor	Pike	393601N	0905748W
+Taylor Ridge	Rock Island	412312N	0904005W
+Taylor Springs	Montgomery	390751N	0892931W
+Taylorville	Christian	393256N	0891740W
+Tazewell	Tazewell	402904N	0891957W
+Teheran	Mason	401328N	0894756W
+Temple Hill	Pope	371826N	0883749W
+Tennessee	Mcdonough	402443N	0905021W
+Terra Cotta	McHenry	421654N	0881802W
+Terre Haute	Henderson	403959N	0905852W
+Teutopolis	Effingham	390759N	0882819W
+Texas City	Saline	375242N	0882336W
+Texico	Jefferson	382622N	0885349W
+Thackeray	Hamilton	380712N	0882711W
+Thawville	Iroquois	404033N	0880658W
+Thayer	Sangamon	393217N	0894547W
+The Burg	Lee	414223N	0890555W
+The Crossroads	Calhoun	385403N	0903345W
+Thebes	Alexander	371315N	0892739W
+Third Lake	Lake	422226N	0880039W
+Thomas	Bureau	413042N	0894910W
+Thomasboro	Champaign	401430N	0881103W
+Thomasville	Montgomery	392923N	0893916W
+Thompsonville	Franklin	375503N	0884544W
+Thomson	Carroll	415732N	0900557W
+Thornton	Cook	413405N	0873629W
+Thornton Junction	Cook	413521N	0873625W
+Thurber	Hamilton	380457N	0882539W
+Tice	Menard	395907N	0894741W
+Ticona	La Salle	411327N	0890309W
+Tilden	Randolph	381243N	0894057W
+Tillman	St Clair	383211N	0900908W
+Tilton	Vermilion	400543N	0873851W
+Time	Pike	393341N	0904327W
+Timothy	Cumberland	391811N	0880746W
+Tinley Park	Cook	413424N	0874704W
+Tioga	Hancock	401240N	0912049W
+Tipton	Champaign	400411N	0880206W
+Tiskilwa	Bureau	411732N	0893022W
+Tison	Saline	375323N	0883052W
+Titus	Greene	391136N	0903443W
+Todds Mill	Perry	381209N	0892157W
+Todds Point	Shelby	393437N	0884557W
+Toledo	Cumberland	391625N	0881437W
+Tolono	Champaign	395910N	0881532W
+Toluca	Marshall	410008N	0890800W
+Tomlinson	Mclean	401908N	0881359W
+Toms Prairie	Wayne	382428N	0881531W
+Tonica	La Salle	411257N	0890400W
+Tonti	Marion	383953N	0885842W
+Topeka	Mason	401949N	0895552W
+Torino	Will	411221N	0881405W
+Toronto	Sangamon	394250N	0893747W
+Toulon	Stark	410537N	0895153W
+Tovey Humphrey Station	Christian	393523N	0892718W
+Towanda	Mclean	403350N	0885356W
+Tower Hill	Shelby	392316N	0885738W
+Tower Lake	Lake	421355N	0880907W
+Towne Oaks	Tazewell	403500N	0893253W
+Trailpark Gardens	Tazewell	404402N	0893106W
+Tremont	Tazewell	403139N	0892933W
+Trenton	Clinton	383620N	0894055W
+Trilla	Coles	392230N	0882101W
+Trimble	Crawford	390348N	0874104W
+Triumph	La Salle	412958N	0890119W
+Trivoli	Peoria	404126N	0895331W
+Troster	Mclean	401906N	0882847W
+Trowbridge	Shelby	391837N	0883104W
+Troxel	Kane	415003N	0883547W
+Troy	Madison	384345N	0895259W
+Troy Crossing	Madison	384220N	0895725W
+Troy Grove	La Salle	412804N	0890459W
+Troy Junction	Madison	384404N	0895541W
+Truro	Knox	405727N	0900232W
+Tuckers Corners	Hamilton	375927N	0883544W
+Tunbridge	De Witt	400649N	0890255W
+Tunnel Hill	Johnson	373125N	0885019W
+Turner Camp	McHenry	421121N	0881502W
+Turner Landing	Calhoun	390413N	0904143W
+Turpin	Macon	394719N	0885509W
+Tuscarora	Peoria	403619N	0894002W
+Tuscola	Douglas	394757N	0881659W
+Twelvemile Corner	Lee	414534N	0890500W
+Twin Grove	Mclean	402936N	0890447W
+Udina	Kane	420236N	0882234W
+Ulah	Henry	411609N	0900846W
+Ullin	Pulaski	371637N	0891100W
+Ullrich	Moultrie	394427N	0884053W
+Union	Logan	401715N	0892201W
+Union Center	Cumberland	391958N	0880453W
+Union Grove	Whiteside	415003N	0900135W
+Union Hill	Kankakee	410627N	0880848W
+Union Town	Marion	383108N	0884501W
+Uniontown	Knox	404451N	0900555W
+Unionville	Massac	370720N	0883248W
+Unity	Alexander	370859N	0891622W
+University	Hamilton	375611N	0883634W
+Urbain	Franklin	375828N	0890226W
+Urbana	Champaign	400638N	0881226W
+Urbandale	Alexander	370310N	0891109W
+Ursa	Adams	400429N	0912202W
+Ustick	Whiteside	415302N	0895931W
+Utah	Warren	405903N	0902916W
+Utica	La Salle	412026N	0890036W
+Utopia	Du Page	415104N	0875822W
+Valier	Franklin	380055N	0890233W
+Valier Patch	Franklin	380136N	0890212W
+Valley City	Pike	394225N	0903909W
+Valley Mission	Union	372129N	0892021W
+Valley View	Du Page	414949N	0880404W
+Valmeyer	Monroe	381740N	0901857W
+Van Burensburg	Montgomery	390210N	0891646W
+Van Orin	Bureau	413300N	0892112W
+Van Petten	Lee	414215N	0893719W
+Van Wood	Sangamon	395741N	0893555W
+Vandalia	Fayette	385738N	0890537W
+Vanderville	Christian	392531N	0891751W
+Varna	Marshall	410211N	0891334W
+Velma	Christian	393053N	0891357W
+Venedy	Washington	382342N	0893845W
+Venetian Village	Lake	422355N	0880309W
+Venice	Madison	384020N	0901011W
+Vera	Fayette	390203N	0890647W
+Vergennes	Jackson	375408N	0892008W
+Vermilion	Edgar	393452N	0873520W
+Vermilion Grove	Vermilion	395530N	0873918W
+Vermilion Heights	Vermilion	400725N	0873912W
+Vermilionville	La Salle	411534N	0885944W
+Vermont	Fulton	401739N	0902540W
+Vernal	Vermilion	401549N	0874158W
+Vernon	Marion	384808N	0890513W
+Vernon Hills	Lake	421310N	0875846W
+Verona	Grundy	411304N	0883005W
+Versailles	Brown	395306N	0903921W
+Vevay Park	Cumberland	391645N	0880313W
+Victoria	Knox	410201N	0900554W
+Vienna	Johnson	372455N	0885352W
+Villa Park	Du Page	415323N	0875920W
+Villa Ridge	Pulaski	370931N	0891141W
+Villagrove	Douglas	395146N	0880944W
+Villas	Crawford	385358N	0874513W
+Viola	Mercer	411211N	0903513W
+Virden	Macoupin	393003N	0894604W
+Virgil	Kane	415721N	0883214W
+Virginia	Cass	395704N	0901244W
+Volo	Lake	421934N	0881004W
+Voorhies	Piatt	395201N	0883448W
+Vulcan	St Clair	383144N	0901432W
+Wacker	Carroll	420329N	0900246W
+Waddams Grove	Stephenson	422503N	0895303W
+Wadsworth	Lake	422543N	0875526W
+Waggoner	Montgomery	392239N	0893911W
+Wakefield	Richland	385024N	0881438W
+Walker	Macon	394035N	0890024W
+Walker Ford	Coles	392520N	0881035W
+Walkerville	Greene	392313N	0902943W
+Walla Walla	Cumberland	391203N	0881132W
+Walnut	Bureau	413324N	0893536W
+Walnut Grove	Mcdonough	403658N	0903333W
+Walnut Hill	Marion	382838N	0890236W
+Walnut Prairie	Clark	391424N	0873958W
+Walpole	Hamilton	375612N	0883317W
+Walsh	Randolph	380522N	0895103W
+Walshville	Montgomery	390415N	0893708W
+Waltersburg	Pope	372244N	0883351W
+Waltham	La Salle	412600N	0890037W
+Walton	Lee	414254N	0892618W
+Waltonville	Jefferson	381232N	0890220W
+Walz	Vermilion	400812N	0873401W
+Wamac	Clinton	383032N	0890826W
+Wanda	Madison	385004N	0900219W
+Wanlock	Mercer	411309N	0903731W
+Wapella	De Witt	401313N	0885743W
+Ward	Jackson	375100N	0891407W
+Ware	Union	372652N	0892338W
+Warner	Henry	412437N	0902233W
+Warnock	Monroe	382344N	0901609W
+Warren	Jo Daviess	422947N	0895922W
+Warrenhurst	Du Page	414922N	0881251W
+Warrensburg	Macon	395558N	0890343W
+Warrenville	Du Page	414904N	0881024W
+Warsaw	Hancock	402133N	0912604W
+Wartburg	Monroe	381726N	0901144W
+Wartrace	Johnson	372357N	0884643W
+Wasco	Kane	415617N	0882416W
+Washburn	Woodford	405509N	0891728W
+Washington	Tazewell	404213N	0892426W
+Washington Park	St Clair	383806N	0900534W
+Wasson	Saline	374717N	0882905W
+Wataga	Knox	410131N	0901647W
+Water Valley	Union	373331N	0891031W
+Waterloo	Monroe	382009N	0900859W
+Waterman	De Kalb	414618N	0884625W
+Watertown	Ogle	415907N	0891740W
+Watkins	De Witt	401651N	0884038W
+Watkins Ford	Pope	373209N	0883752W
+Watseka	Iroquois	404634N	0874411W
+Watson	Effingham	390131N	0883411W
+Wauconda	Lake	421532N	0880821W
+Waukegan	Lake	422149N	0875041W
+Wauponsee	Grundy	411628N	0882940W
+Waverly	Morgan	393530N	0895710W
+Wayland	Schuyler	401216N	0904225W
+Wayne	Du Page	415703N	0881432W
+Wayne Center	Du Page	415634N	0881025W
+Wayne City	Wayne	382043N	0883516W
+Waynesville	De Witt	401420N	0890723W
+Weaver	Clark	392505N	0873558W
+Webster	Hancock	402759N	0910002W
+Wedges Corner	Lake	422310N	0880015W
+Wedron	La Salle	412610N	0884624W
+Weedman	De Witt	401653N	0883611W
+Welco Corners	Will	414150N	0880229W
+Weldon	De Witt	400716N	0884443W
+Welge	Randolph	375723N	0894245W
+Welland	La Salle	413736N	0890415W
+Wellington	Iroquois	403221N	0874048W
+Wempletown	Winnebago	422036N	0891215W
+Wendel	Bureau	413159N	0891236W
+Wendelin	Clay	385000N	0881622W
+Wenona	Marshall	410309N	0890301W
+Wenonah	Montgomery	391937N	0891720W
+Wertenberg	Clinton	382646N	0893953W
+Wesley	Tazewell	403911N	0893615W
+West Brooklyn	Lee	414134N	0890849W
+West Chicago	Du Page	415305N	0881214W
+West City	Franklin	380011N	0885618W
+West Dundee	Kane	420553N	0881658W
+West DuPage Park	Du Page	415222N	0881057W
+West End	Franklin	375324N	0884220W
+West Frankfort	Franklin	375352N	0885553W
+West Hallock	Peoria	405515N	0893821W
+West Jersey	Stark	410108N	0895537W
+West Junction	Stephenson	421853N	0893932W
+West Kankakee	Kankakee	410707N	0875317W
+West Lake Forest	Lake	421319N	0875223W
+West Liberty	Jasper	385112N	0880504W
+West Newell	Vermilion	401212N	0873655W
+West Peoria	Peoria	404133N	0893740W
+West Point	Hancock	401518N	0911057W
+West Point Landing	Fulton	401249N	0901013W
+West Pullman	Cook	414046N	0873831W
+West Ridge	Douglas	394933N	0881301W
+West Rural Hill	Hamilton	375756N	0884118W
+West Salem	Edwards	383115N	0880017W
+West Union	Clark	391257N	0873958W
+West Vienna	Johnson	372543N	0885810W
+West York	Crawford	391016N	0874025W
+Westchester	Cook	415102N	0875255W
+Western Springs	Cook	414835N	0875402W
+Westervelt	Shelby	392844N	0885142W
+Westfield	Clark	392723N	0875946W
+Westfield Corners	Winnebago	421230N	0891351W
+Westhaven	Cook	413507N	0875035W
+Westmont	Du Page	414745N	0875832W
+Weston	Mclean	404450N	0883719W
+Westport	Lawrence	384108N	0873223W
+Westview	St Clair	383213N	0900606W
+Westville	Vermilion	400232N	0873819W
+Wetaug	Pulaski	371926N	0891000W
+Wetzel	Edgar	394222N	0874222W
+Wheaton	Du Page	415158N	0880625W
+Wheeler	Jasper	390248N	0881859W
+Wheeling	Cook	420821N	0875544W
+Whitaker	Kankakee	411505N	0874340W
+White Ash	Williamson	374722N	0885529W
+White City	Macoupin	390353N	0894548W
+White Hall	Greene	392613N	0902411W
+White Heath	Piatt	400510N	0883046W
+White Hill (Chasco)	Johnson	371909N	0890117W
+White Oak	Montgomery	393035N	0893416W
+White Pigeon	Whiteside	415325N	0895328W
+White Rock	Ogle	420211N	0890802W
+Whitefield	Bureau	410855N	0893017W
+Whittington	Franklin	380521N	0885410W
+Whitton	Jo Daviess	421333N	0901830W
+Wichert	Kankakee	410326N	0874215W
+Wilbern	Marshall	405648N	0891925W
+Wilbur Heights	Champaign	400833N	0881408W
+Wilderman	St Clair	382825N	0895621W
+Wildwood	Lake	422034N	0875953W
+Wilkinson	De Kalb	420024N	0884658W
+Willard	Alexander	370511N	0892108W
+Willard Landing	Union	372719N	0892703W
+Willeys	Christian	393549N	0891400W
+Williams Park	Lake	421515N	0881100W
+Williamsburg	Jefferson	381340N	0890331W
+Williamsburg Hill	Shelby	391801N	0885605W
+Williamsfield	Knox	405521N	0900052W
+Williamson	Madison	385908N	0894550W
+Williamsville	Sangamon	395715N	0893255W
+Willisville	Perry	375902N	0893522W
+Willow	Jo Daviess	421641N	0895659W
+Willow Bar Landing	Calhoun	390644N	0904048W
+Willow Hill	Jasper	385945N	0880121W
+Willow Springs	Cook	414427N	0875137W
+Willowbrook	Du Page	414452N	0875607W
+Wilmette	Cook	420420N	0874322W
+Wilmington	Will	411828N	0880848W
+Wilsman	La Salle	411016N	0885555W
+Wilson	Lake	422220N	0880823W
+Wilson Ford	Pike	395022N	0905152W
+Wilson Heights	Madison	384246N	0895601W
+Wilson Landing	Calhoun	390135N	0904131W
+Wilsonville	Macoupin	390415N	0895122W
+Wilton	Will	412246N	0875603W
+Wilton Center	Will	412105N	0875735W
+Winchester	Scott	393747N	0902722W
+Windsor	Shelby	392627N	0883541W
+Wine Hill	Randolph	375656N	0894028W
+Winfield	Du Page	415142N	0880939W
+Wing	Livingston	404910N	0882404W
+Winkel	Tazewell	402056N	0893753W
+Winkle	Perry	380900N	0892919W
+Winnebago	Winnebago	421558N	0891428W
+Winneberger	Calhoun	385247N	0903507W
+Winneshiek	Stephenson	422040N	0893138W
+Winnetka	Cook	420629N	0874409W
+Winslow	Stephenson	422933N	0894732W
+Winston	Jo Daviess	422004N	0902149W
+Winterrowd	Effingham	385627N	0882230W
+Winthrop Harbor	Lake	422844N	0874925W
+Winthrop Harbor Station	Lake	422844N	0875042W
+Witt	Montgomery	391523N	0892053W
+Woburn	Bond	385731N	0892047W
+Wolf Creek	Williamson	373736N	0890310W
+Wolf Lake	Mason	400512N	0900843W
+Wolfs	Kendall	414145N	0881539W
+Womac	Macoupin	391617N	0894717W
+Wonder Lake	McHenry	422336N	0882025W
+Wood Dale	Du Page	415748N	0875844W
+Wood River	Madison	385140N	0900551W
+Woodbine	Jo Daviess	422032N	0900843W
+Woodburn	Macoupin	390251N	0900043W
+Woodbury	Cumberland	391145N	0881811W
+Woodcrest	St Clair	383516N	0900307W
+Woodford	Woodford	405048N	0890141W
+Woodhull	Henry	411044N	0901857W
+Woodland	Iroquois	404252N	0874352W
+Woodland Addition	La Salle	411757N	0885000W
+Woodland Hills	Kane	415058N	0881653W
+Woodland Junction	Iroquois	404150N	0874351W
+Woodlawn	Jefferson	381948N	0890157W
+Woodridge	Du Page	414449N	0880301W
+Woodruff Corners	Stephenson	421639N	0892536W
+Woodside	Sangamon	394312N	0894044W
+Woodson	Morgan	393744N	0901308W
+Woodstock	McHenry	421853N	0882655W
+Woodvale	Warren	410126N	0903839W
+Woodville	Adams	401118N	0911058W
+Woodworth	Iroquois	403935N	0875045W
+Woody	Greene	391549N	0902906W
+Woodyard	Edgar	395156N	0873922W
+Woosung	Lee	415412N	0893227W
+Worden	Madison	385553N	0895020W
+Worth	Cook	414123N	0874750W
+Wrights	Greene	392233N	0901739W
+Wrights Corner	Fayette	390746N	0885159W
+Wyanet	Bureau	412155N	0893502W
+Wyckles	Macon	395111N	0890144W
+Wyckles Corners	Macon	395038N	0890144W
+Wynoose	Richland	383555N	0881319W
+Wyoming	Stark	410342N	0894623W
+Wyton	Vermilion	400746N	0873836W
+Xenia	Clay	383809N	0883805W
+Yale	Jasper	390711N	0880129W
+Yantisville	Shelby	393211N	0885300W
+Yates City	Knox	404643N	0900053W
+Yatesville	Morgan	395045N	0900337W
+Yeager	Kankakee	411228N	0874208W
+Yellow Banks	Henderson	404349N	0910452W
+Yeomans	Morgan	393902N	0900227W
+Yeoward Addition	Whiteside	414529N	0893938W
+York	Clark	391017N	0873821W
+York Center	Du Page	415125N	0875916W
+Yorktown	Bureau	413411N	0895100W
+Yorkville	Kendall	413828N	0882650W
+Youngsdale	Kane	415926N	0882026W
+Youngstown	Warren	403938N	0903702W
+Yuton	Mclean	403200N	0890337W
+Zanesville	Montgomery	391920N	0893911W
+Zearing	Bureau	412644N	0891902W
+Zeigler	Franklin	375358N	0890307W
+Zenith	Wayne	383255N	0883721W
+Zenobia	Christian	393143N	0893201W
+Zier Cors	Carroll	420914N	0894925W
